@@ -1,6 +1,6 @@
 <?php
 
-	define('BASE_URL', 'http://localhost/ranganathasharma/');
+	define('BASE_URL', 'http://localhost/ark/');
 	define('PUBLIC_URL', BASE_URL . 'public/');
 	define('XML_SRC_URL', BASE_URL . 'md-src/xml/');
 	define('PHOTO_URL', PUBLIC_URL . 'Photos/');
