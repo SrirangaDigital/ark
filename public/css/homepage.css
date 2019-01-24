@@ -2,79 +2,93 @@ a {
   color: #1565C0;
 }
 .flat-page, .dynamic-page{
-    margin-top: 80px;
+    margin-top: 75px;
+    font-family: 'Nudi', sans-serif;
 }
 .dynamic-page{
     min-height: 75vh;
-    font-family: 'Raleway', sans-serif;
     color: #222;
 }
-.banner {
-    background: url(../images/himalaya.jpg) no-repeat center center;
-    /*background-attachment: fixed;*/
-    display: table;
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    color: #FFF;
-}
-.banner .row{
-    height: 100%;
-}
-.banner h1{
-    text-align: center;
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
-    font-size: 36px;
-    line-height: 48px;
-}
-.banner h1 small{
-    font-weight: 100;
-    font-style: italic;
-    font-size: 24px;
-    color: #FFF;
-}
-.banner input.bigSearch {
-    font-family: 'Roboto', sans-serif;
+.banner .small-note{
+    font-family: 'Nudi';
     font-size: 18px;
-    width: 80%;
-    padding: 8px;
-    margin: 16px 0;
-    border: none;
-    opacity: 0.95;
-    color: #333;
-    outline: none;
+    /*font-style: italic;*/
+    line-height: 1.75em;
+    background: rgba(153, 204, 255, 0.1);
 }
-.banner .overlay {
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 40px 0px;
-    text-align: center;
-    min-height: 100vh;
-}
-
-.prelims {
-    margin-top: 40px;
-    margin-bottom: 80px;
-    font-weight: 300;
-    color: #333;
-}
-.prelims p, .footer p {
-    font-family: 'Raleway', sans-serif;
-    font-size: 16px;
-    line-height: 28px;
-    margin: 10px 0;
-}
-.prelims h1 {
-    font-family: 'Playfair Display', serif;
-    font-size: 36px;
-}
-.prelims h2 {
-    font-family: 'Playfair Display', serif;
+.banner .head{
     font-size: 24px;
+    font-style: normal; 
+    color: #483D8B;
+    padding-bottom: 10px;
+}
+.banner h3{
+    font-size: 22px;
+    line-height: 30px;
+    color: #0C1D67;
+}
+.banner .cover img{
+    height: 350px;
+    margin: 40px 0px;
+}
+.banner h3 small{
+    font-family: 'Nudi';
+    font-size: 16px;
+    line-height: 30px;
+}
+.booksCollection a:HOVER{
+    text-decoration: none;
+    opacity: .8;
+}
+.bookinfo{
+    padding: 20px 20px 0px 20px;
+    border-bottom: 1px solid rgba(220, 220, 220, 0.8);
+    font-size: 17px;
+}
+.bookinfo .title{
+    font-size: 24px;
+    color: #0C1D67;
+}
+.bookinfo .edition{
+    font-size: 18px;
+    color: #0C1D67;
+}
+.bookinfo .price{
+    color: green;
+    font-size: 18px;
+    margin-bottom: 5px;
+    padding: 0px;
+}
+.bookinfo .description{
+    margin-top: 0px;
+    line-height: 28px;
+    text-align: justify;
+}
+.bookinfo img{
+    padding: 5px;
+    border: none;
+    box-shadow: 0 1px 15px rgba(0,0,0,0.5);
+}
+.bookinfo .googleBooks a:HOVER{
+    text-decoration: none;
+}
+.bookinfo .googleBooks img{
+    border: none;
+    box-shadow: none;
+    width: 40px;
 }
 .booksCollection img{
-    padding: 5px;
+    padding: 8px;
+    margin: auto;
     height: 250px;
+    box-shadow: 0 1px 15px rgba(0,0,0,0.5);
+}
+.booksCollection .title{
+    color: #000;
+    text-align: center;
+    font-size: 18px;
+    color: #0C1D67;
+    margin: 10px;
 }
 .toc li{
     padding-bottom: 5px;
@@ -91,57 +105,24 @@ a {
     margin-bottom: 25px;
     color: #292A3E;
 }
-.about-tabs {
-    font-family: 'Playfair Display', serif;
-    text-align: center;
-}
-.about-tabs.nav-tabs .nav-link{
-    color: #333;
+.about{
+    margin-top: 10px;
     font-size: 20px;
-    border: none;
-    border-bottom: 1px solid transparent;
+    line-height: 35px;
+    text-align: justify;
 }
-.about-tabs.nav-tabs .nav-link.active,
-.about-tabs.nav-tabs .nav-link:focus,
-.about-tabs.nav-tabs .nav-link:hover {
-    color: #D50000;
-    font-weight: 400;
-    border-radius: 0;
-}
-.about-content .tab-pane .prelims{
-    padding-top: 40px;
-    padding-left: 0;
-    padding-right: 0;
-}
-.dedication h2, .author h2{
-    text-align: center;
-}
-.dedication .verse{
-    font-size: 24px;
-    line-height: 40px;
-    color: #D50000;
-}
-.blessing p{
-    color: #D50000;
-}
-.blessing img{
+.about p:not(:last-child){
+    text-indent: 5%;
     margin-bottom: 20px;
 }
-.card{
-border: none !important;
+.about .img-thumbnail{
+    height: 450px;
+    margin: 25px;
+    float: right;
 }
-
-.card-title {
-    font-family: 'Nudi';
-    font-size: 18px;
-    text-align: center;
-    margin-bottom: 5px;
-    margin-top: 5px;
+h4, h2{
+    color: #0C1D67;
 }
-.card-title, a:link {
-  text-decoration: none;
-}
-
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
         margin-top: 140px;

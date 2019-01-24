@@ -1,191 +1,50 @@
-<div class="container about prelims">
-    <div class="row">
-    	<div class="col-md-3">&nbsp;</div>
-        <div class="col-md-9">
-        	<h1><small>A Concise</small><br />Encyclopaedia of Hinduism</h1>
-    	</div>
-    </div>
-    <div class="row">
-        <div class="col-md-3">
-        	<img src="<?=PUBLIC_URL?>images/brhaspati.jpg" class="img-fluid" />
-        </div>
-        <div class="col-md-9">
-        	<p>Of late, study of Hinduism is drawing the attention of scholars both on India and from other countries. However, books on general Hinduism covering all aspects are hard to find. This encyclopaedia is expected to remedy this problem to a considerable extent. The subjects dealt with are religion. philosophy, mythology, rituals, scriptural works, festivals and pilgrim centres, astrology, biographies of religious personalities, iconography temples and religious institutions. Buddhism Janism and Sikhism which are closely allied to Hinduism have also been dealt with briefly. It is earnestly hoped that the students of Hinduism will find this work useful in understanding the essence of Hinduism in the right spirit.</p>
-    	</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<nav class="nav nav-tabs justify-content-around about-tabs" id="myTab" role="tablist">
-		<a class="col-md-2 nav-item nav-link active" id="nav-dedication-tab" data-toggle="tab" href="#nav-dedication" role="tab" aria-controls="nav-dedication" aria-selected="true">Dedication</a>
-		<a class="col-md-2 nav-item nav-link" id="nav-author-tab" data-toggle="tab" href="#nav-author" role="tab" aria-controls="nav-author" aria-selected="false">Author</a>
-		<a class="col-md-2 nav-item nav-link" id="nav-blessings-tab" data-toggle="tab" href="#nav-blessings" role="tab" aria-controls="nav-blessings" aria-selected="false">Blessings</a>
-		<a class="col-md-2 nav-item nav-link" id="nav-preface-tab" data-toggle="tab" href="#nav-preface" role="tab" aria-controls="nav-preface" aria-selected="false">Preface</a>
-		<a class="col-md-2 nav-item nav-link" id="nav-acknowledgement-tab" data-toggle="tab" href="#nav-acknowledgement" role="tab" aria-controls="nav-acknowledgement" aria-selected="false">Acknowledgement</a>
-		<a class="col-md-2 nav-item nav-link" id="nav-digital-edition-tab" data-toggle="tab" href="#nav-digital-edition" role="tab" aria-controls="nav-digital-edition" aria-selected="false">Digital Edition</a>
-	</nav>
-	<div class="tab-content about-content" id="nav-tabContent">
-		<div class="tab-pane fade show active" id="nav-dedication" role="tabpanel" aria-labelledby="nav-dedication-tab">
-			<!-- Dedication -->
-			<div class="container dedication prelims">
-			    <div class="row justify-content-center">
-			        <div class="col-md-4 align-self-center">
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sharada-devi.jpg" />
-			    	</div>
-			        <div class="col-md-6 align-self-center">
-			        	<p class="verse mt-5">
-			        		भगवद्रामकृष्णेन पूजिता या सरस्वती ।<br />
-							तस्याः श्रीसारदादेव्याः पदे ग्रन्थस्समर्पितः ॥
-						</p>
-						<p>
-							bhagavdrāmakṛṣṇena pūjitā yā sarasvatī ।<br />
-							tasyāḥ śrīsāradādevyāḥ pade granthassamarpitaḥ ॥
-						</p>
-						<p>This work is dedicated at the feet of Śrī Sāradā devī who was worshipped by Bhagavān Śrī Rāmakṛṣṇa himself as Sarasvatī (the goddess of learning)</p>
-			    	</div>
-				</div>
-			</div>
-		</div>
-		<div class="tab-pane fade" id="nav-author" role="tabpanel" aria-labelledby="nav-author-tab">
-			<!-- Author -->
-			<div class="container author prelims">
-			    <div class="row justify-content-center">
-			        <div class="col-md-4 align-self-center">
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/author.jpg" />
-			    	</div>
-			        <div class="col-md-6 align-self-center">
-			        	<p><strong>Swami Harshanandaji</strong>, the author of this work, is a senior monk of the Ramakrishna Monastic Order. He was posted as the President of the Bangalore Ashrama in May 1989 and is continuing as such. The Swami is an initiated disciple of Swami Virajananda, the sixth President of the Order. He was ordained sannyasa in 1962 by Swami Vishuddhananda, the eighth President of the Order. He has worked in several centres of the Ramakrishna Math such as those in Mangalore, Mysore, Belur Math and Allahabad.</p>
-			    	</div>
-				</div>
-			</div>
-		</div>
-		<div class="tab-pane fade" id="nav-blessings" role="tabpanel" aria-labelledby="nav-blessings-tab">
-			<!-- Blessings -->
-			<div class="container-fluid blessing prelims">
-			    <div class="row justify-content-center text-center">
-			        <div class="col-md-12">
-			        	<img src="<?=PUBLIC_URL?>images/logo.png" />
-			       	</div>
-			        <div class="col-md-4">
-			        	<p>Swami Virajananda (6<sup>th</sup> President)</p></p>
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sign1.jpg" />
-			    	</div>
-			        <div class="col-md-4">
-			        	<p>Swami Vishuddhananda (8<sup>th</sup> President)</p></p>
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sign2.jpg" />
-			    	</div>
-			        <div class="col-md-4">
-			        	<p>Swami Ranganathananda (13<sup>th</sup> President)</p></p>
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sign3.jpg" />
-			    	</div>
-			        <div class="col-md-4">
-			        	<p>Swami Gahanananda (14<sup>th</sup> President)</p></p>
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sign4.jpg" />
-			    	</div>
-			        <div class="col-md-4">
-			        	<p>Swami Atmasthananda (15<sup>th</sup> President)</p></p>
-			        	<img class="img-fluid" src="<?=PUBLIC_URL?>images/sign5.jpg" />
-			    	</div>
-				</div>
-			</div>
-		</div>
-		<div class="tab-pane fade" id="nav-preface" role="tabpanel" aria-labelledby="nav-preface-tab">
-			<!-- Preface -->
-			<div class="container preface prelims">
-			    <div class="row justify-content-center">
-			        <div class="col-md-12">
-			        	<h2>Preface to the Three Volume Edition</h2>
-			        	<p>Hinduism is a great religion. The traditionalists however prefer to call it ‘Sanātana Dharma’. Perhaps, this is a far better term that reflects its true meaning and significance. The word dharma is generally used to denote religion, the path to perfection or beatitude. ‘Sanātana’ means ‘ancient’ as also ‘eternal’. Hence the expression means ‘the religion or the path of spiritual discipline that is not only ancient but also eternal’. In other words, Hinduism has been offering an unbroken continuous tradition of spiritual discipline which is not only very ancient but also relevant even to the modern times. The beauty of this tradition is that it proffers several alternatives that can suit different types of sādhakas (aspirants) instead of prescribing the same cap for every head. Thus, starting from the aspirant at the highest rung of the spiritual ladder who is fit to meditate on the non-dual Brahman (the Absolute), right up to the tyro worshipping the images, everyone has a place specially carved out for him.</p>
-				        <div class="text-center">
-					        <img class="p-3" src="<?=PUBLIC_URL?>images/volume1.jpg" />
-					        <img class="p-3" src="<?=PUBLIC_URL?>images/volume2.jpg" />
-					        <img class="p-3" src="<?=PUBLIC_URL?>images/volume3.jpg" />
-			        	</div>
-			        	<p>Of late, study of Hinduism is drawing the attention of scholars both from India and from other countries. However, books on general Hinduism covering all aspects are not many. Even the few that are available deal with subjects like the Upanisads, the Bhagavadgītā, Vedānta systems and Yoga philosophy in greater detail ignoring other aspects relevant to popular Hinduism.</p>
-			        	<p>Hence there is a great need for an exhaustive omnibus type of work.</p>
-			        	<p>There were two choices before me:</p>
-			        	<p>
-			        		1. To prepare a comprehensive work with several chapters touching on all aspects of Hinduism.<br />
-			        		2. To work on a regular encyclopaedia of Hinduism, arranging the various subjects in the English alphabetical order.
-		        		</p>
-			        	<p>After weighing the pros and cons, I decided in favour of the latter since it would be much easier for the average reader to locate the subject he wants to know. This is now in your hands.</p>
-			        	<p>The entries have been arranged in the English alphabetical order. Since most of the subject headings are in Sanskrit, standard diacritical marks as approved by the <i>International Alphabet of Sanskrit Transliteration</i> and based on a standard established by the <i>Congress of Orientalists</i> at Athens in A. D. 1912 have been adopted. However, while arranging the titles in the alphabetical order, the diacritical marks have been ignored to facilitate easy recognition.</p>
-			        	<p>As for the subject content, the following are the main topics dealt with in greater detail: religion, philosophy, mythology, rituals, scriptural works, festivals and pilgrim centres.</p>
-			        	<p>Other topics described include astrology, biographies of religious personalities, iconography, Sanskrit language and literature, temples and religious institutions.</p>
-			        	<p>Care has been taken to deal with the four Vedas, their subsidiary works and allied literature. Several important Vedic Sūktas, yāgas or sacrifices as also unfamiliar concepts and terms have also been described.</p>
-			        	<p>Along with the major Upaniṣads and the Mahāpurāṇas, several minor Upaniṣads and the upapurāṇas too have been dealt with.</p>
-			        	<p>While the essay on the Rāmāyaṇa is fairly exhaustive, the one on the Mahābhārata is more condensed because of its immense size. However, the various topics dealt with in it like dharma or the minor Gītās or the Yakṣapraśna do find a place as independent articles.</p>
-			        	<p>Since most of the āgamas and tantras are still in the manuscript form, justice could not be done to this subject area. Only a few major ones, more well—known, have been delineated.</p>
-			        	<p>Since Buddhism, Jainism and Sikhism are closely allied to Hinduism they too have been described briefly along with the biographies of their founders. </p>
-			        	<p>Now, a word about the language: The Basic Manual of Style given in standard dictionaries has been closely followed as far as possible. Use of capital letters has been minimised. Italics have been used to indicate the titles of books and works as also foreign words. In the body of the work, all Sanskrit words are given in the usual Roman script only except in rare cases where found necessary italics have been used. All references to works quoted have been given in full, avoiding abbreviations.</p>
-			        	<p>Line-drawings as also halftone pictures have been given in the body of the work itself under the respective titles. Photographs have been given separately in a bunch at the appropriate places.</p>
-			        	<p>Brief biographical notes of the better known Indologists have been given at the end as appendices.</p>
-			        	<p>A work of this dimension could not have been accomplished without academic help from various quarters. However, only a select bibliography has been prepared and added at the end. Small booklets and articles which have also been consulted, have not been mentioned since they are too numerous to do so.</p>
-			        	<p>This stupendous task, normally undertaken by institutions, has some how been completed—it was started in 1975—solely by the grace of God. It is being dedicated to Śrī Sāradādevī—better known as the Holy Mother—the Divine Spouse of the Divine Lord, Bhagavān Śrī Rāmakṛṣṇa Paramahaṁsadeva.</p>
-			        	<p>I earnestly hope that the students of Hinduism as also the Hindu society will find this work useful in understanding the essence of Hinduism in the right spirit.</p>
-			        	<p>Bangalore<br />30 December 2007<br />Swami Harshananda</p>
-			        	
-			        	<h2 class="mt-5">Preface to the Supplement</h2>
-			        	<p>The book, <i>A Concise Encyclopaedia of Hinduism</i> in three volumes, was brought out during May 2008. It was released on the 30th May 2008 by Bharat Ratna Dr. A. P. J. Abdul Kalam at an impressive function in the presence of a very large gathering of scholars, devotees and distinguished persons.</p>
-				        <div class="text-center">
-					        <img class="p-3" src="<?=PUBLIC_URL?>images/volume4.jpg" />
-			        	</div>
-			        	<p>During this release function, Dr. Kalam had suggested that supplements can be brought out as and when new material is discovered or gathered.</p>
-			        	<p>This supplement is sequel to it. It contains some of the subjects omitted in the earlier volumes as also plenty of new material, especially related to the tantra-literature.</p>
-			        	<p>The entire system of arrangements adopted in the earlier volumes has been continued here also.</p>
-			        	<p>Though this is small volume, the same standard of excellence in printing and getup as in the earlier volumes has been maintained.</p>
-			        	<p>We hope that the admirers of Hindu values of life will find this small book also useful.</p>
-			        	<p>Bangalore<br />3 March 2014<br />Swami Harshananda</p>
-			    	</div>
-				</div>
-			</div>
-		</div>
-		<div class="tab-pane fade" id="nav-acknowledgement" role="tabpanel" aria-labelledby="nav-acknowledgement-tab">
-			<!-- Acknowledgement -->
-			<div class="container preface prelims">
-			    <div class="row justify-content-center">
-			        <div class="col-md-12">
-				        <h2>Acknowledgement for the Three Volume Edition</h2>
-						<p>A big project like this could not have been successfully accomplished but for the help of several persons received over the years. The following are the more important ones to whom we are deeply indebted:</p>
-						<p>Sri B. N. Nataraj of Sri Nithyananda Printers who had taken the entire responsibility of photo-composing, printing, binding and other allied works.</p>
-						<p>Smt. K. Susheela who ably assisted Sri B. N. Nataraj in various ways. She has been working at it for over 18 years.</p>
-						<p>Sriyuths C. N. Mohan Kumar and C. N. Sathyanarayana of the Gurudutt Printers Pvt. Ltd, for the excellent job of printing.</p>
-						<p>Sri N. Arvind who gave his expertise in fine-tuning the scanning of the line-drawings and photographs.</p>
-						<p>Sri S. Sudarshan who took immense trouble in scanning all the necessary materials including the line-drawings and photographs.</p>
-						<p>Sri Nagsundar of Geetanjali Graphics for meticulously preparing all the necessary plates for printing.</p>
-						<p>We are also grateful to the various devotees who have helped us financially, the chief ones being Ms. Stella Soper of United Kingdom, Prof. M. Lakshmanan of Bangalore and Dr. V. V. Srinivasan of USA.</p>
-
-						<h2 class="mt-5">Acknowledgement for the Supplement</h2>
-						<p>We are deeply indebted to the following persons but for whose help this work would not have been success:</p>
-						<p>Sri B. N. Nataraj of Sri Nithyananda Printers who had taken the entire responsibility of photo-composing, printing, binding and other allied works.</p>
-						<p>Kum. K. Susheela who ably assisted Sri B. N. Nataraj in various ways.</p>
-						<p>Sriyuths C. N. Mohan Kumar and C. N. Sathyanarayana of the Gurudutt Printers, for the excellent job of printing.</p>
-						<p>Sri N. Arvind who has fine-tuned the photographs and printed the cover page.</p>
-						<p>Sri S. Sudarshan who took immense trouble in scanning all the necessary photographs.</p>
-						<p>Sri Nagsundar of Geetanjali Graphics for meticulously preparing all the necessary plates for printing.</p>
-			        </div>
-		        </div>
-		    </div>
-		</div>
-		<div class="tab-pane fade" id="nav-digital-edition" role="tabpanel" aria-labelledby="nav-digital-edition-tab">
-			<!-- Digital Edition -->
-			<div class="container preface prelims">
-			    <div class="row justify-content-center">
-			        <div class="col-md-12">
-				        <img class="my-3" src="<?=PUBLIC_URL?>images/sriranga-logo.png" />
-				        <h2>Application Developemnt</h2>
-				        <p>This web application is designed, developed, hosted and maintained by <a href="http://www.srirangadigital.com/" target="_blank">Sriranga Digital Software Technologies Private Limited.</a></p>
-			
-				        <img class="my-3" src="<?=PUBLIC_URL?>images/ihar-logo.png" />
-				        <h2>Sponsors</h2>
-				        <p><a href="http://www.iharweb.org/" target="_blank">Indian History Awareness and Research (IHAR)</a> is an organization working to revive and develop a contemporary understanding of the knowledge and values of Indic heritage and civilization through disciplined inquiry and research.</p>
-				        <p>IHAR is focused on</p>
-				        <p>a) Reviving, Archiving, Digitizing and Publishing Classic and Contemporary Texts and Manuscripts;</p>
-				        <p>b) Organizing or Conducting public discussions, workshops, forums, panels and lectures;</p>
-				        <p>c) Creating educational material fit for academic institutions and also creating a resource for public benefit through radio, television, print or digital media access.</p>
-			        </div>
-		        </div>
-		    </div>
+<div class="container dynamic-page">
+	<div class="row">
+		<div class="col-md-12 about">
+			<img src="<?=PUBLIC_URL?>images/ark2.jpg" class="img-fluid img-thumbnail" />
+			<h2><small><i>ಪ್ರೊಫೆಸರ್</small><br />ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ ರವರ ಜೀವನ ಚೆರಿತ್ರೆ</i></h2>
+			<p>ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯದ ಕಣ್ಮಣಿಗಳಲ್ಲಿ ಒಬ್ಬರಾಗಿದ್ದು, ಕನ್ನಡ ಭಾಷೆ ಸಾಹಿತ್ಯಗಳ ಅಭಿವೃದ್ಧಿಗೆ ಅರ್ಧಶತಮಾನಕ್ಕೆ ಹೆಚ್ಚು ಕಾಲ ಏಕಪ್ರಕಾರವಾಗಿ ಶ್ರಮಿಸಿದ ಪ್ರಾಧ್ಯಾಪಕ ಎ.ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕನ್ನಡ ನಾಡಿನ ಪುಣ್ಯಚೇತನರಲ್ಲಿ ಗಣ್ಯರು. ಅವರು ಹಿಂದೂ ಪಂಚಾಂಗದ ಕಾಲಗಣನೆಯಂತೆ ವಿರೋಧಿನಾಮ ಸಂವತ್ಸರದ ಮಾಘ ಬಹುಳ ಸಪ್ತಮೀ ಬುಧವಾರದಂದು (೧೨-೨-೧೮೯೦) ಮೈಸೂರಿನ ಒಂದು ಅಗ್ರಹಾರದಲ್ಲಿ ಹುಟ್ಟಿದರು. ತಂದೆಗೆ ಅವರೇ ಮೊದಲ ಮಗ. ಅವರ ತಂದೆ ಮೈಸೂರು ಮಹಾರಾಜಾ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆಯಲ್ಲಿ ತರ್ಕ ವ್ಯಾಕರಣಾದಿ ವಿಷಯಗಳಲ್ಲಿ ಪ್ರಧಾನಾಧ್ಯಾಪಕರಾಗಿದ್ದ ವ್ಯಾಕರಣವಿದ್ವಾನ್ ಅಂಬಳೆ ವೈ. ರಾಮಕೃಷ್ಣ ಶಾಸ್ತ್ರಿಗಳು, ತಾಯಿ ಶಂಕರಮ್ಮನವರು.</p>
+			<p>ಮಗುವಿಗೆ ನಾಮಕರಣವಾದುದು ಕೃಷ್ಣಶಾಸ್ತ್ರಿಯೆಂದೇ ಆದರೂ, ಯಾವ ಕಾರಣಕ್ಕಾಗಿಯೋ ಏನೋ ಬಾಲ್ಯಕಾಲದಿಂದ ಬಿ.ಎ. ಪದವೀಧರರಾಗುವ ವರೆಗೆ ಹೆಸರು ರಾಮಕೃಷ್ಣಶಾಸ್ತ್ರಿಯೆಂದಿದ್ದು, ಆ ಕಾಲಕ್ಕೆ ವಿಶ್ವವಿದ್ಯಾನಿಲಯಕ್ಕೆ ಸೂಕ್ತವಾದ ರುಸುಮು ಸಲ್ಲಿಸಿ ಎ.ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ ಎಂದು ಮಾಡಿಕೊಂಡರಂತೆ. ಒಂದು ಸ್ವಾರಸ್ಯವೆಂದರೆ, ೧೯೪೮ರಲ್ಲಿ ಅವರು ತಮ್ಮ ಜಾತಕವನ್ನು ಕೌಶಿಕನಾಡಿ ಗ್ರಂಥದಲ್ಲಿ ನೋಡಿಸಿದಾಗ, ಅವರ ೭-೮ನೆಯ ಅವತಾರಗಳ ಹೆಸರುಗಳು (ರಾಮ, ಕೃಷ್ಣ) ಕಾಲಕ್ರಮದಲ್ಲಿ ೮ನೆಯದಾಗಿ ಉಳಿದುಕೊಂಡಿದೆ ಎಂಬುದಾಗಿ ತಿಳಿದುಬಂದಿತಂತೆ.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳ ಪೂರ್ವಿಕರು ಹಳೆಯ ಮೈಸೂರು ಸಂಸ್ಥಾನಕ್ಕೆ ಸೇರಿದ ಚಿಕ್ಕಮಗಳೂರಿಗೆ ಸಮೀಪದ ಅಂಬಳೆ ಗ್ರಾಮಕ್ಕೆ ಸೇರಿದವರು. ಆದರೆ ಅವರ ತಂದೆ ರಾಮಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಮೈಸೂರಿನ ಸಂಸ್ಕೃತ ಮಹಾಪಾಠಶಾಲೆಯಲ್ಲಿ ಓದಿ, ಅಲ್ಲಿಯೇ ಕೆಲಸಕ್ಕೆ ಸೇರಿ, ಹತ್ತಿರದ ದೇವೀರಮ್ಮಣ್ಣಿ ಅಗ್ರಹಾರದಲ್ಲಿ ಮನೆಮಾಡಿದ್ದರಿಂದ ಅವರು ಅಲ್ಲಿಯೇ ಬೆಳೆದು ದೊಡ್ಡವರಾದರು.</p>
+			<p>ಶಾಸ್ತ್ರಿಗಳು ಮನೆಮಾತು ಕನ್ನಡವಾಗಿರುವ ಹೊಯ್ಸಳಕರ್ಣಾಟಕ ಪಂಗಡದ ಶ್ರೋತ್ರಿಯಬ್ರಾಹ್ಮಣ ಮನೆತನದಲ್ಲಿ ಜನಿಸಿದವರು. ಮನೆಯಲ್ಲಿ ಪರಂಪರೆಯಾಗಿ ಸಂಸ್ಕೃತಶಿಕ್ಷಣ ನಡೆದುಕೊಂಡು ಬಂದಿತ್ತು. ಹೀಗಾಗಿ ಶಾಸ್ತ್ರಿಗಳಿಗೆ ಸಂಪ್ರದಾಯ ಪದ್ಧತಿಯಲ್ಲಿಯೇ ಸಂಸ್ಕೃತ﻿ ಶಿಕ್ಷಣ ಮೊದಲಾಯಿತು. ಅವರು ಇನ್ನೂ ೪-೫ ವರ್ಷಗಳ ಬಾಲಕನಾಗಿದ್ದಾಗಲೇ ತಂದೆ ಅವರನ್ನು ಪಾಠಶಾಲೆಗೆ ತಮ್ಮೊಂದಿಗೆ ಕರೆದೊಯ್ಯುತ್ತಿದ್ದರು. ಅಲ್ಲಿ ಇತರ ವಿದ್ಯಾರ್ಥಿಗಳೊಂದಿಗೆ ಈ ಬಾಲಕನಿಗೂ ಶಿಕ್ಷಣದ ಲಾಭವಾಯಿತು. ಸಂಸ್ಕೃತದ ಸ್ತೋತ್ರಗಳು, ಅಮರಕೋಶದ ಶಬ್ದಗಳು ಮಾತ್ರವಲ್ಲದೆ, ಪಾಣಿನಿಯ ವ್ಯಾಕರಣದ ಸೂತ್ರಗಳು ಸಹ ಚಿಕ್ಕಂದಿನಲ್ಲೇ ಬಾಯಿಪಾಠವಾದುವು. ಇದು ಮನೆಯಲ್ಲಿ ಸಹ ಮುಂದುವರಿಯುತ್ತಿತ್ತು. ಜೊತೆಗೆ ಕನ್ನಡದ ಬಾಲಪಾಠವನ್ನೂ ತಂದೆಯವರೇ ಮಾಡಿಸಿದರು. ಕಾಳಿದಾಸನ 'ರಘುವಂಶ' 'ಕುಮಾರಸಂಭವ'ಗಳೂ 'ಚಂಪೂರಾಮಾಯಣ'ವೂ ಪಾಠವಾದವು ಎನ್ನುವ ವೇಳೆಗೆ, ಅವರ ಹತ್ತನೆಯ ವಯಸ್ಸಿಗೆ ಅವರಿಗೆ ಮಾತೃವಿಯೋಗವುಂಟಾಯಿತು. ಈಗ ಅವರನ್ನು ನೋಡಿಕೊಳ್ಳುವ, ಬೆಳಸಿ ವಿದ್ಯಾವಂತರನ್ನಾಗಿ ಮಾಡುವ ಜವಾಬ್ದಾರಿ ಪೂರ್ತಿಯಾಗಿ ತಂದೆ ರಾಮಕೃಷ್ಣ ಶಾಸ್ತ್ರಿಗಳನ್ನೇ ಸೇರಿತು. ಈ ಘಟ್ಟದಲ್ಲಿ ಅವರನ್ನು ಸಂಸ್ಕೃತದಿಂದ ಬಿಡಿಸಿ ಕನ್ನಡದ ಓದಿಗೆ ಹಾಕಿದವರೂ ತಂದೆಯೇ. ಆಗ ತಾನೇ ಅವರ ಶಾಲಾಶಿಕ್ಷಣವೂ ಆರಂಭವಾಗಿತ್ತು.</p>
+			<p>ತಂದೆ ರಾಮಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ತಮ್ಮ ನಿತ್ಯಕರ್ಮಾನುಷ್ಠಾನಗಳಿಗೆ ಹಾಗೂ ಪಾಠಶಾಲೆಯ ಅಧ್ಯಾಪಕವೃತ್ತಿಗೆ ಹೆಚ್ಚು ಸಮಯವನ್ನು ಕೊಡಬೇಕಾಗಿದ್ದುದರಿಂದ ಮನೆಯಲ್ಲಿ ಗೃಹಕೃತ್ಯದ ವ್ಯವಹಾರಗಳನ್ನು, ನೀರು ಸೇದಿ ತರುವುದು, ಅಡುಗೆ ಮಾಡುವುದು, ಹೊರಗಿಂದ ಪಡಿಪದಾರ್ಥ ಕೊಂಡು ತರುವುದು ಮುಂತಾದುವೂ ಸೇರಿದಂತೆ ಬಹುಪಾಲು ಕೆಲಸಗಳನ್ನು, ಚಿಕ್ಕವರಾದ ಶಾಸ್ತ್ರಿಗಳೇ ನಿರ್ವಹಿಸಬೇಕಾಗಿತ್ತು. ಜೊತೆಗೆ ವಯಸ್ಸಾದ ಅಜ್ಜಿಯನ್ನೂ ಇನ್ನೂ ಚಿಕ್ಕವರಾದ ತಮ್ಮ ತಂಗಿಯರನ್ನೂ ಅವರೇ ನೋಡಿಕೊಳ್ಳಬೇಕಾಗುತ್ತಿತ್ತು. ಇಷ್ಟೆಲ್ಲ ತೊಂದರೆಗಳ ನಡುವೆ ಶಾಲೆಗೆ ಹೋಗಿ ಬರುತ್ತ ಹೇಗೆ ಸಮರ್ಪಕವಾಗಿ ವ್ಯಾಸಂಗಮಾಡಿದರು ಎನ್ನುವುದೇ ಒಂದು ಆಶ್ಚರ್ಯ. ಅವರು ವ್ಯಾಸಂಗವನ್ನು ಚೆನ್ನಾಗಿಯೇ ಮಾಡುತ್ತಿದ್ದರು ಎನ್ನುವುದಕ್ಕೆ, ಸರ್ಕಾರದ ಮೊದಲ ಪಬ್ಲಿಕ್ ಪರೀಕ್ಷೆಯಾದ ಕನ್ನಡ ಲೋಯರ್ ಸೆಕೆಂಡರಿ ಪರೀಕ್ಷೆಯಲ್ಲಿ ಸಂಸ್ಥಾನಕ್ಕೇ ಮೊದಲ ಬ್ಯಾಂಕ್ ಪಡೆದು ಉತ್ತೀರ್ಣರಾದರು ಎನ್ನುವುದೇ ಸಾಕ್ಷಿ. ಆಗ ಅವರ ವಯಸ್ಸು ಹದಿನಾರು. ಈ ವಯಸ್ಸಿಗೆ ಬೇರೆ ಎಷ್ಟೋ ಮಂದಿ ಬಾಲಕರು ತಮ್ಮ ಮೆಟ್ರಿಕ್ಯುಲೇಷನ್, ಮಾತ್ರವಲ್ಲ ಎಫ್.ಎ. ಸಹ ಮಾಡಿರುತ್ತಿದ್ದರು ಎಂಬುದು ನಿಜ. ನಾನಾ ಕಾರಣಗಳಿಂದಾಗಿ ಶಾಸ್ತ್ರಿಗಳ ಶಾಲಾವ್ಯಾಸಂಗ ನಿಧಾನಗತಿಯಲ್ಲಿ ಆರಂಭವಾಗಿ ಸಾಗಿತ್ತು. ಆದರೆ ತೃಪ್ತಿಕರವಾಗಿ, ಯಶಸ್ವಿಯಾಗಿ ಸಾಗಿದ್ದುದೂ ನಿಜ. ಅವರಲ್ಲಿ ಸ್ವಾವಲಂಬನೆ ಸಾಮರ್ಥ್ಯಗಳನ್ನೂ ಮಿಗಿಲಾದ ಶ್ರದ್ಧೆ ಉತ್ಸಾಹಗಳನ್ನೂ ವಯಸ್ಸಿನ ಪರಿಪಕ್ವತೆ ಬೆಳಸುತ್ತ ಹೋಗಲು ಇದರಿಂದ ಅನುಕೂಲವೇ ಆಯಿತು. ಇತರರ ಕೈ ಕಾಯದೆ ಪರಿಸ್ಥಿತಿಯನ್ನು ನಿಭಾಯಿಸಬಲ್ಲವರಾಗಿದ್ದರು, ಅವರು.</p>
+			<p>ಶಾಸ್ತ್ರಿಗಳು ತಮ್ಮ ೧೭ನೆಯ ವಯಸ್ಸಿನಲ್ಲಿ ರಾಜಾ ಸ್ಕೂಲಿನಲ್ಲಿ ಇಂಗ್ಲಿಷ್ ಲೋಯರ್ ಸೆಕೆಂಡರಿ ಪರೀಕ್ಷೆಯನ್ನು ಮುಗಿಸಿಕೊಂಡರು; ಪ್ರೌಢಶಾಲೆಯ ವ್ಯಾಸಂಗಕ್ಕೆ ವೆಸ್ಲಿಯನ್ ಮಿಷನ್ ಹೈಸ್ಕೂಲನ್ನು ಸೇರಿದರು. ಅದೇ ವರ್ಷ ಸಂಪ್ರದಾಯರೀತಿಯಲ್ಲಿ ಅವರ ಮದುವೆ﻿ ವೆಂಕಟಲಕ್ಷಮ್ಮನವರೊಂದಿಗೆ ಜರುಗಿತು. ಅಂದಿನ ದಿನಗಳಲ್ಲಿ ಹದಿಹರಯದಲ್ಲಿ ಮದುವೆಯಾಗುವುದು ಸಾಮಾನ್ಯವಾಗಿತ್ತು. ಸಾಂಪ್ರದಾಯಿಕ ವೇಷಭೂಷಣಗಳಲ್ಲಿ, ಎಂದರೆ ಶಿಖೆ ಲಾಂಛನ ಮೊದಲಾದವುಗಳೊಂದಿಗೆ, ಪಂಚೆ ಉತ್ತರೀಯಗಳೊಂದಿಗೆ, ಮದುವೆಯಾದ ಹುಡುಗನೊಬ್ಬ ಶಾಲೆಯಲ್ಲಿ ಕುಳಿತು ಓದುವುದನ್ನು ತರಗತಿಯ ಸಹಪಾಠಿಗಳಲ್ಲಿ ಹಲವರು ತಮಾಷೆಮಾಡಿ ನಗುತ್ತಿದ್ದರಂತೆ. ಆದರೆ ತರಗತಿಯಲ್ಲಿ ಮೊದಲಿಗನಾಗಿ ಬಂದಾಗ ಅವರಿಗೆ ವಿಸ್ಮಯ ಕಾದಿರುತ್ತಿತ್ತು. ಅವರಿಗೆ ಮೊದಲ ವರ್ಷ ಬಂದ ಮೆರಿಟ್ ಸ್ಕಾಲರ್‌ಷಿಪ್, ಅವರು ಗಳಿಸುತ್ತಿದ್ದ ಪ್ರಥಮಸ್ಥಾನದಿಂದಾಗಿ ಮೂರು ವರ್ಷಗಳಲ್ಲಿಯೂ ಮುಂದುವರಿಯಿತು. ಇದು ಅವರ ಮೇಧಾಶಕ್ತಿ, ದೃಢಸಂಕಲ್ಪಶಕ್ತಿ, ಕಠಿನ ಪರಿಶ್ರಮಗಳಿಗೆ ದೊರೆತ ಮನ್ನಣೆಯೆನ್ನಬೇಕು. ಕನ್ನಡದ ಸುಪ್ರಸಿದ್ಧ ಸಾಹಿತಿಗಳಾದ ಮಾಸ್ತಿ ವೆಂಕಟೇಶ ಅಯ್ಯಂಗಾರ್ಯರು ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳಿಗೆ ಸಮಕಾಲಿಕರಾದ ವಿದ್ಯಾರ್ಥಿಮಿತ್ರರಾಗಿದ್ದು, ಇಬ್ಬರಿಗೂ ಪಠ್ಯೇತರವಾದ ಸಾಹಿತ್ಯಸ್ಪರ್ಧೆಗಳಲ್ಲಿ ಸಮಸಮವಾಗಿ ಹೋರಾಟವಿರುತ್ತಿದ್ದಿತು ಎಂಬುದಾಗಿ ಮಾಸ್ತಿಯವರೇ ತಮ್ಮ ಆತ್ಮಚರಿತ್ರೆಯಲ್ಲಿ ಒಂದು ಕಡೆ ಉಲ್ಲೇಖಿಸಿದ್ದಾರೆ.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳ ಶಾಲೆ ಕಾಲೇಜುಗಳ ವ್ಯಾಸಂಗದ ದಿನಗಳಲ್ಲಿಯೇ, ಸಂಸ್ಥಾನದ ರಾಜಧಾನಿಯಾಗಿದ್ದ ಮೈಸೂರುನಗರ ಮಹಾರಾಜರು ವಹಿಸುತ್ತಿದ್ದ ಮುತುವರ್ಜಿಯಿಂದ ಹೊಸಕಳೆಯನ್ನು ಹೊಮ್ಮಿಸುತ್ತಿತ್ತು. ಅದು ವಿದ್ಯಾವಂತರನ್ನೂ ಕಲಾವಿದರನ್ನೂ ಪೋಷಿಸಿ ಬೆಳಸುವ ಘನತೆಯನ್ನು ಸಂಪಾದಿಸಿತ್ತು; ಆರ್ಥಿಕವಾಗಿ ಚಟುವಟಿಕೆಯ ಕೇಂದ್ರವಾಗಿತ್ತು. ಅದರ ಪ್ರಾಕೃತಿಕಸೌಂದರ್ಯ, ಗುಡಿಗೋಪುರಗಳು, ವಿಶಾಲವಾದ ಕೆರೆಗಳು, ಸುಂದರವಾದ ಉದ್ಯಾನಗಳು ಒಂದು ವಿಧದ ಆಕರ್ಷಣೆಯಾಗಿದ್ದರೆ, ದಿನ ತಪ್ಪದಂತೆ ಒಂದಲ್ಲ ಒಂದು ಸಂಗೀತ ನಾಟಕ ಸಾಹಿತ್ಯದ ಕಾರ್ಯಕ್ರಮಗಳು ನಡೆಯುತ್ತ ರಸಿಕರನ್ನು ಆಕರ್ಷಿಸುತ್ತಿದ್ದುದು ಇನ್ನೊಂದು ವಿಧದ ಆಕರ್ಷಣೆಯಾಗಿತ್ತು. ಇಂತಹ ಪರಿಸರದಲ್ಲಿ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಬೆಳೆದು ತಮ್ಮ ಘನವಾದ ವ್ಯಕ್ತಿತ್ವವನ್ನು ರೂಪಿಸಿಕೊಂಡುದು ಸ್ವಾಭಾವಿಕವಾಗಿಯೇ ಇದೆ. ಮನೆತನದ ಮೂಲಕ ಬಂದ ಸಂಸ್ಕೃತವಿದ್ಯೆ ಒಂದು ಕಡೆ, ಶಾಲೆ ಕಾಲೇಜುಗಳ ಮೂಲಕ ಕಲಿತ ಇಂಗ್ಲಿಷ್ ವಿದ್ಯೆ ಇನ್ನೊಂದು ಕಡೆ , ಅವರಿಗೆ ಪ್ರಾಚ್ಯ ಹಾಗೂ ಪಾಶ್ಚಾತ್ಯ ಈ ಎರಡೂ ಸಂಸ್ಕೃತಿಗಳ ಸಾರವನ್ನು ಗ್ರಹಿಸಲು ಅನುವು ಮಾಡಿಕೊಟ್ಟವು. ಮೆಟ್ರಿಕ್ಯುಲೇಷನ್ ತರುವಾಯದಲ್ಲಿ, ತಾವು ಆ ಪರೀಕ್ಷೆಗೆ ಐಚ್ಛಿಕಗಳಾಗಿ ತೆಗೆದುಕೊಂಡು ಓದಿದ್ದ ವಿಜ್ಞಾನ ಮತ್ತು ಗಣಿತ ವಿಷಯಗಳನ್ನೇ ಮುಂದುವರಿಸಬೇಕನ್ನುವುದು ಅವರ ಅಪೇಕ್ಷೆಯಾಗಿತ್ತು. ಅವು ಅವರ ಅಭಿರುಚಿಯ ವಿಷಯಗಳೂ ಆಗಿದ್ದವು. ಆದರೆ ಆ ವಿಷಯಗಳಲ್ಲಿ ಎಫ್.ಎ. ಮತ್ತು ಬಿ.ಎಸ್‌ಸಿ. ಮಾಡಬೇಕಾದರೆ ಅದಕ್ಕೆ ಅವಕಾಶವಿದ್ದ ಬೆಂಗಳೂರಿನ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿಗೆ ಸೇರಬೇಕಾಗಿತ್ತು. ಆದರೆ ಅವರನ್ನು ಬೆಂಗಳೂರಿನಲ್ಲಿ ಬಿಟ್ಟು ಓದಿಸುವ ಮಟ್ಟಿಗೆ ಅವರ ತಂದೆಯವರಿಗೆ ಆರ್ಥಿಕಸುಸ್ಥಿತಿಯಿರಲಿಲ್ಲ. ಆ ಕಾಲದಲ್ಲಿ ಸಂಸ್ಕೃತಪಂಡಿತರಿಗೆ ಬರುತ್ತಿದ್ದ ಸಂಬಳ ತೀರ ಕಡಮೆ; ಸಂಸಾರದ ಕ್ಲೇಶಗಳು ಹೆಚ್ಚು. ಹೀಗಾಗಿ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕಲಾವಿಷಯಗಳನ್ನು ಬೋಧಿಸಲು ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದಿಂದ ಅಧಿಕೃತವಾಗಿ ಅಂಗೀಕೃತವಾಗಿದ್ದ ಮೈಸೂರಿನ ಮಹಾರಾಜ ಕಾಲೇಜಿಗೆ ಸೇರಿ ಇತಿಹಾಸ ಮತ್ತು ಭಾಷಾವಿಷಯಗಳನ್ನು ಅಭ್ಯಾಸಮಾಡಬೇಕಾಯಿತು. ಸಂಸ್ಕೃತ ಕನ್ನಡ ವಿಷಯಗಳಿಗೆ ಸಂಬಂಧಿಸಿದ ಪುಸ್ತಕಗಳು ಮನೆಯಲ್ಲಿಯೇ ದೊರೆಯುವುದು ಸಾಧ್ಯವಿದ್ದುದು ಸಹ, ಆ ವಿಷಯಗಳ ಆಯ್ಕೆಗೆ ಅವರನ್ನು ಪ್ರೇರಿಸಿರಬೇಕು.</p>
+			<p>ಮೈಸೂರು ಮಹಾರಾಜ ಕಾಲೇಜು ಆ ದಿನಗಳಲ್ಲಿ ಪ್ರತಿಷ್ಠಿತ ಪ್ರೌಢವಿದ್ಯಾಪೀಠವಾಗಿದ್ದು, ಅಲ್ಲಿ ಖ್ಯಾತಿವೆತ್ತ ಪ್ರಾಧ್ಯಾಪಕರು ಕೆಲಸಮಾಡುತ್ತಿದ್ದರು. ಸಂಸ್ಕೃತಕ್ಕೆ ಎಂ. ಹಿರಿಯಣ್ಣ, ತತ್ತ್ವಶಾಸ್ತ್ರಕ್ಕೆ ಎಸ್. ರಾಧಾಕೃಷ್ಣನ್, ಇಂಗ್ಲಿಷಿಗೆ ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ, ಇತಿಹಾಸಕ್ಕೆ ರಾಧಾಕುಮುದ ಮುಖರ್ಜಿ, ಅರ್ಥಶಾಸ್ತ್ರಕ್ಕೆ ಕೆ.ಟಿ. ಷಾ ಪ್ರಾಧ್ಯಾಪಕರಾಗಿದ್ದು, ಇವರು ಬಳಿಕ ರಾಷ್ಟ್ರೀಯ ಅಂತಾರಾಷ್ಟ್ರೀಯ ಪ್ರಸಿದ್ಧಿಗೆ ಪಾತ್ರರಾದರು. ಕನ್ನಡಕ್ಕೆ ಆಗ ಅಂತಹ ಪ್ರಾಪ್ತಿ ಪ್ರಸಿದ್ಧಿಗಳಿರಲಿಲ್ಲ. ತಮ್ಮ ಮಟ್ಟಿಗೆ ಉದ್ದಾಮ ಪಂಡಿತರೇ ಆಗಿದ್ದರೂ, ಕಾನಕಾನಹಳ್ಳಿ ವರದಾಚಾರ್ಯರೂ ಪಿ.ಆರ್. ಕರಿಬಸವ ಶಾಸ್ತ್ರಿಗಳೂ ಸಂಪ್ರದಾಯ ಮಾರ್ಗದಲ್ಲಿ ಮಾತ್ರ ಸಾಹಿತ್ಯಪಾಠ ಮಾಡಬಲ್ಲವರಾಗಿದ್ದರು.</p>
+			<p>೧೮೫೩ರಲ್ಲಿ ಆರಂಭವಾದ ಮೈಸೂರಿನ ಮಹಾರಾಜ ಕಾಲೇಜು ಮತ್ತು ಅನಂತರದಲ್ಲಿ ೧೮೫೮ರಲ್ಲಿ ಆರಂಭವಾದ ಬೆಂಗಳೂರಿನ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜು  ೨೦ನೆಯ ಶತಮಾನದ ಎರಡನೆಯ ದಶಕದ ಮೊದಲರ್ಧದ ವರೆಗೆ ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾಲಯದ ಅಂಗೀಕೃತ ಕಾಲೇಜುಗಳಾಗಿದ್ದುವು. ೧೯೧೬ರಲ್ಲಿ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಅಸ್ತಿತ್ವಕ್ಕೆ ಬಂದ ಮೇಲೆ ಅವು ಸ್ವತಂತ್ರವಾಗಿ ತಮ್ಮ ಕಾರವ್ಯಾಪ್ತಿಯನ್ನು ವಿಸ್ತರಿಸಿಕೊಂಡುವು; ಶೈಕ್ಷಣಿಕ ಶಾಖೆಗಳು ಬೆಳೆದುವು. ಇದಕ್ಕೆ ಕೆಲವು ವರ್ಷಗಳು ಮೊದಲಷ್ಟೇ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಮಹಾರಾಜ ಕಾಲೇಜಿಗೆ ವಿದ್ಯಾರ್ಥಿಯಾಗಿ ಸೇರಿದರು.</p>
+			<p>ಶಾಸ್ತ್ರಿಗಳು ತಮ್ಮ ಅಧ್ಯಾಪಕರಲ್ಲಿ ಸಂಪ್ರದಾಯಮಾರ್ಗದ ಸಂಸ್ಕೃತ ಕನ್ನಡ ಪಂಡಿತರ ಬೋಧನೆ ಮಾರ್ಗದರ್ಶನಗಳಿಂದ ದೊರೆಯದ ಆಧುನಿಕವಿಮರ್ಶೆಯ ದೃಷ್ಟಿ, ತುಲನಾತ್ಮಕ ಸಮಾಲೋಚನೆ ಹಾಗೂ ಒಳನೋಟಗಳನ್ನು ಗ್ರಹಿಸುವ ಕ್ರಮ ಇವನ್ನು ಪ್ರಾಚೀನ ಮತ್ತು ಆಧುನಿಕ ಸಾಹಿತ್ಯಾಧ್ಯಯನದಲ್ಲಿ ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯನವರಿಂದ ಕಂಡುಕೊಂಡರು. ಅವರ ಬಹುಭಾಷಾಧ್ಯಯನದ ಪ್ರಯೋಜನ, ಅನನ್ಯ ಕನ್ನಡಭಾಷಾಸಾಹಿತ್ಯಪ್ರೇಮ ಹಾಗೂ ಭಾಷೆ ಶೈಲಿ ವಸ್ತುಗಳಲ್ಲಿ ಹೊಸತನವನ್ನು ಹೂಡುವ, ನಡಸುವ ಉತ್ಸಾಹ ಇವನ್ನು ತಾವೂ ಮೈಗೂಡಿಸಿಕೊಂಡರು. ಅವರು ಸಂಸ್ಕೃತಸಾಹಿತ್ಯ, ವೇದಾಂತ, ಕಾವ್ಯಮೀಮಾಂಸೆ ಇವುಗಳಲ್ಲಿ ನಿಷ್ಕೃಷ್ಟವಾದ ಪಾಂಡಿತ್ಯವನ್ನು ಗಳಿಸಿದ್ದ ಎಂ. ಹಿರಿಯಣ್ಣನವರಿಂದಲೂ ವಿಶೇಷವಾಗಿ﻿ ಪ್ರಭಾವಿತರಾದರು. ಕ್ರಮಬದ್ಧವಾಗಿ ಕೆಲಸಮಾಡುವ ರೀತಿ, ತರ್ಕಬದ್ಧವಾಗಿ ವಿಚಾರಮಾಡುವ ಶಕ್ತಿ, ಸರಳವಾದ ನಿರೂಪಣಕ್ರಮ, ವಿದ್ವತ್ ಪತ್ರಿಕೆಗಳ ವ್ಯಾಸಂಗದ ಪ್ರಯೋಜನ ಇವುಗಳನ್ನು ಅವರಿಂದ ಗ್ರಹಿಸಿದರಲ್ಲದೆ, ಅವರ ಸಾತ್ತ್ವಿಕವಾದ, ಉದಾರವಾದ ವ್ಯಕ್ತಿತ್ವವನ್ನು ತುಂಬ ಗೌರವಿಸಿದರು. ಕನ್ನಡ ಪಂಡಿತರಾದ ಕೆ. ವರದಾಚಾರ್ಯರು ಜೀವನೋತ್ಸಾಹ ರಸಿಕತೆಗಳು ತುಂಬಿ ಸೂಸುವಂತೆ ಮಾಡುತ್ತಿದ್ದ ಪಾಠಪ್ರವಚನಗಳನ್ನು ಮೆಚ್ಚಿದರು. ಇಂತಹವರ ಸಂಪರ್ಕ ಸಾಹಚರ್ಯಗಳಿಂದ ಜೀವನಪ್ರೀತಿಯೂ ಸಂಪ್ರದಾಯಜಡವಲ್ಲದ ಸಾಹಿತ್ಯಾಭಿರುಚಿಯೂ ಅವರಲ್ಲಿ ಮೈಗೂಡಿದುವು.</p>
+			<p>ಕಾಲೇಜು ಶಿಕ್ಷಣದ ದಿನಗಳಲ್ಲಿ ನಡೆದುದೆನ್ನಲಾದ ಒಂದು ಘಟನೆ ಸ್ವಾರಸ್ಯಕರವಾಗಿದೆ. ಒಮ್ಮೆ ದಿವಾನ್ ಸರ್ ಎಂ. ವಿಶ್ವೇಶ್ವರಯ್ಯನವರ ಅಧ್ಯಕ್ಷತೆಯಲ್ಲಿ ಒಂದು ಚರ್ಚಾಸ್ಪರ್ಧೆ ನಡೆಯಿತಂತೆ. ಸ್ಪರ್ಧಿಗಳು ಒಬ್ಬೊಬ್ಬರೂ ಸಾಕಷ್ಟು ಹೊತ್ತು ಮಾತಾಡಿ ಶ್ರೋತೃಗಳಿಗೆ ಬೇಸರವೇ ಆಗಿತ್ತಂತೆ. ಕೊನೆಯಲ್ಲಿ ಮಾತಾಡಿದ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ದಿಟ್ಟವಾಗಿ ವಿಷಯಪ್ರತಿಪಾದನೆಮಾಡಿ ಪ್ರಭಾವಶಾಲಿಯಾಗಿ, ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಶ್ರೋತೃಗಳನ್ನು ರಂಜಿಸಿದರಲ್ಲದೆ ಅಧ್ಯಕ್ಷರೂ ಆಕರ್ಷಿತರಾಗುವಂತೆ ಮಾಡಿದರಂತೆ. ಅವರು ವಿದ್ಯಾರ್ಥಿಯಾಗಿದ್ದ ಶಾಸ್ತ್ರಿಗಳ ಬಗೆಗೆ ಪ್ರತ್ಯೇಕವಾಗಿ ವಿಚಾರಿಸಿದರಂತೆ. ಚುರುಕಾಗಿ ಆಲೋಚಿಸುವುದು, ಸರಳವಾಗಿ ಸೊಗಸಾಗಿ ಮಾತಾಡುವುದು, ಮಾತಿನಲ್ಲಿ ಸ್ವಾರಸ್ಯಕರವೂ ಪರಿಚಿತವೂ ಆದ ದೃಷ್ಟಾಂತಗಳನ್ನು ತರುವುದು ಶಾಸ್ತ್ರಿಗಳಿಗೆ ಎಂದಿನಿಂದಲೂ ಸಿದ್ಧಿಸಿದ ಕಲೆಯಾಗಿತ್ತು.</p>
+			<p>ಇದು ಹೀಗಿದ್ದು ಸಹ, ಶಾಸ್ತ್ರಿಗಳು ೧೯೧೨ರಲ್ಲಿ ಬಿ.ಎ. ಪದವಿಪರೀಕ್ಷೆಯನ್ನು ತೆಗೆದುಕೊಂಡಾಗ, ಉಳಿದೆಲ್ಲ ವಿಷಯಗಳಲ್ಲಿಯೂ ಅತ್ಯುಚ್ಚಶ್ರೇಣಿಯಲ್ಲಿ ಅಂಕಗಳು ಬಂದಿದ್ದರೂ, ಇಂಗ್ಲಿಷಿನಲ್ಲಿ ಒಂದು ಅಂಕ ಕಡಮೆಯಾಗಿ ಅವರು ಆ ವರ್ಷ ಅನುತ್ತೀರ್ಣರಾದರು. ಮರುವರ್ಷ (೧೯೧೩) ಅವರು ಇಂಗ್ಲಿಷ್ ಪರೀಕ್ಷೆ ತೆಗೆದುಕೊಂಡು ಉತ್ತೀರ್ಣರಾಗಿ ಬಿ.ಎ. ಪದವೀಧರರಾದರು. ಅಂದಿನ ದಿನಗಳಲ್ಲಿ ಪದವಿಪರೀಕ್ಷೆಗಳ ಮೌಲ್ಯಮಾಪನದಲ್ಲಿ ಇಂಥ ಎಡ್ಡಾದಿಡ್ಡಿಗಳು ಅಥವಾ ಕಾಠಿನ್ಯ ಕಾರ್ಪಣ್ಯಗಳು ಬಹುಶಃ ಸಾಮಾನ್ಯವಾಗಿದ್ದುವಲ್ಲದೆ, ಅನುತ್ತೀರ್ಣತೆಗೆ ವಿದ್ಯಾರ್ಥಿಗಳ ಅಸಮರ್ಥತೆ ಕಾರಣವಲ್ಲವೆಂದು ಕೆಲವರು ತಿಳಿಯುತ್ತಾರೆ. ಅಂದು ವ್ಯಾಸಂಗದ ವಿಷಯಗಳೂ ಪಠ್ಯಸಂಯೋಜನೆಯೂ ಪರೀಕ್ಷಾಪದ್ಧತಿಯೂ ಮೌಲ್ಯಮಾಪನವಿಧಾನವೂ ತುಂಬ ಬಿಕ್ಕಟ್ಟಾಗಿದ್ದುದು ನಿಶ್ಚಯ. ಶಾಸ್ತ್ರಿಗಳು ತಮ್ಮ ವ್ಯಾಸಂಗತತ್ಪರತೆ ಬುದ್ಧಿಶಕ್ತಿಗಳಿಂದ ಕಷ್ಟಸಾಧ್ಯವಾದುದನ್ನು ಸಾಧಿಸಿದರೆಂದೇ ಹೇಳಬೇಕು.</p>
+			<p>ಬಾಲ್ಯದಿಂದಲೇ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳಲ್ಲಿ ಸಂಸ್ಕೃತ ಕನ್ನಡ ಭಾಷಾಭಿಮಾನಗಳು ಒಗ್ಗೂಡಿ ಬೆಳೆದಿದ್ದವು. ಸಂಸ್ಕೃತಭಾಷೆ ಕನ್ನಡವನ್ನು ತನ್ನ ವಾಹಕವನ್ನಾಗಿ ಮಾಡಿಕೊಂಡು ಉಳಿಯುವುದರಲ್ಲಿ ಸಫಲತೆ ಪಡೆಯಬೇಕೆಂಬ, ಹಾಗೆಯೇ ಕನ್ನಡಭಾಷೆ ಸಂಸ್ಕೃತದ ಉತ್ತಮಾಂಶಗಳನ್ನು﻿ ಹೀರಿ ತನ್ನ ವರ್ಚಸ್ಸನ್ನು ಬೆಳಸಿಕೊಳ್ಳಬೇಕೆಂಬ ವಿಚಾರ ಅವರಿಗೆ ತಮ್ಮ ವ್ಯಾಸಂಗದ ದಿನಗಳಲ್ಲಿಯೇ ಮನವರಿಕೆಯಾಗಿದ್ದಿತು. ಅವರ ಭಾಷಾಸಾಹಿತ್ಯ ಪ್ರೀತಿಗಳು ವರ್ಧಿಷ್ಣುವಾಗಿ ಸಾಗಿ, ಈಗ ಪಕ್ವಸ್ಥಿತಿಗೆ ತಲುಪುವ ಘಟ್ಟದಲ್ಲಿದ್ದುವು. ಸಾಹಿತ್ಯಾಭಿಮಾನದ ದೃಷ್ಟಿಯಿಂದಲೂ ವೃತ್ತಿಜೀವನದ ದೃಷ್ಟಿಯಿಂದಲೂ ಅವರು ತಮ್ಮ ವ್ಯಾಸಂಗವನ್ನು ಮುನ್ನಡಸಲು ಆಲೋಚಿಸಿದರು.</p>
+			<p>ಮೈಸೂರು ಕನ್ನಡ ಭಾಷೆ ಸಾಹಿತ್ಯಗಳ ಹುಟ್ಟುನೆಲೆ, ತೂಗುದೊಟ್ಟಿಲು ಎಂಬ ಖ್ಯಾತಿಗೆ ಪಾತ್ರವಾಗಿದ್ದರೂ ಅಲ್ಲಿಯ ಅತ್ಯುಚ್ಚ ವಿದ್ಯಾಪೀಠವೆನಿಸಿದ್ದ ಮಹಾರಾಜ ಕಾಲೇಜಿನಲ್ಲಿ ಆಗ ಸ್ನಾತಕೋತ್ತರ ತರಗತಿಯ ಕನ್ನಡ ವ್ಯಾಸಂಗದ ಏರ್ಪಾಡಿರಲಿಲ್ಲ. ಮದರಾಸಿಗೆ ಹೋಗಿ ವ್ಯಾಸಂಗಮಾಡಬೇಕಾಗಿತ್ತು. ಸಂಸ್ಕೃತವಿಷಯದಲ್ಲಿಯೂ ಹೀಗೆಯೇ ಇದ್ದಿರಬಹುದು. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಸಂಸ್ಕೃತ ಕನ್ನಡ ಭಾಷೆಗಳ ಎಂ.ಎ. ಪರೀಕ್ಷೆಗೆ ಗೊತ್ತುಮಾಡಿದ್ದ ಪಠ್ಯಗಳನ್ನು ಸ್ವತಃ ಅಭ್ಯಾಸಮಾಡಿಕೊಂಡು ಅದಕ್ಕೆ ಸಿದ್ಧವಾಗಿದ್ದರು. ಅವರ ಅದೃಷ್ಟಕ್ಕೆ ೧೯೧೪ರಲ್ಲಿ ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಮದರಾಸಿನಲ್ಲಿಯೇ ಇದ್ದುಕೊಂಡು ಕ್ರಮಬದ್ದವಾಗಿ ವ್ಯಾಸಂಗಮಾಡಬೇಕೆಂಬ ತನ್ನ ನಿಯಮವನ್ನು ಭಾಷೆಗಳ ವಿಷಯದಲ್ಲಿ ಸಡಿಲಿಸಿತು; ಖಾಸಗಿಯಾಗಿ ವ್ಯಾಸಂಗಮಾಡಿದವರು ಮದರಾಸಿನಲ್ಲಿ ಪರೀಕ್ಷೆ ತೆಗೆದುಕೊಳ್ಳಬಹುದೆಂದು ಸೂಚಿಸಿತು. ಆದರೆ ಈ ಸೌಕರ್ಯ ಅದೊಂದು ವರ್ಷಕ್ಕೆ ಮಾತ್ರ. ಅದನ್ನು ಉಪಯೋಗಿಸಿಕೊಳ್ಳಲು ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕೂಡಲೇ ಮುಂದಾದರು. ಸಂಸ್ಕೃತ ಕನ್ನಡ ಎರಡು ಭಾಷೆಗಳಲ್ಲಿಯೂ ಎಂ.ಎ. ಪದವೀಧರರಾದರು. ಆ ಕಾಲಕ್ಕೆ ಆ ವಿಧದ ಹೆಚ್ಚುಗಾರಿಕೆ ಮೈಸೂರು ಸಂಸ್ಥಾನದಲ್ಲಿ ತುಂಬ ವಿರಳವಾದ ವಿದ್ಯಮಾನವೇ ಆಗಿತ್ತೆನ್ನಬೇಕು.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಎಂ.ಎ. ಪರೀಕ್ಷೆಯಲ್ಲಿ ಚೆನ್ನಾಗಿ ಉತ್ತೀರ್ಣರಾದರು, ಅದೂ ಎರಡೂ ಭಾಷೆಗಳ ಪ್ರಾವೀಣ್ಯದೊಂದಿಗೆ. ಆದರೆ ಅಷ್ಟರಿಂದ ಅವರು ಸರ್ಕಾರದ ಹುದ್ದೆ ಪಡೆಯುವುದು ಸುಲಭವಾಗಿರಲಿಲ್ಲ. ಪ್ರತಿಭಾವಂತರಾದ ಪದವೀಧರರು ಸಾಮಾನ್ಯವಾಗಿ ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದಂತೆಯೇ ತಾವು ಸಹ ತಮ್ಮ ಅದೃಷ್ಟಪರೀಕ್ಷೆ ಮಾಡಲು ಮೈಸೂರು ಸಿವಿಲ್ ಸರ್ವಿಸ್ ಪರೀಕ್ಷೆಗೆ ಅದೇ ವರ್ಷ (೧೯೧೪) ಕುಳಿತರು. ಅದರಲ್ಲಿ ಅವರಿಗೆ ಸೂಕ್ತವಾದ ಸ್ಥಾನ ಸಿಕ್ಕಲಿಲ್ಲ. ಹಾಗೆ ಸಿಕ್ಕದೆ ಹೋದುದು ಒಳ್ಳೆಯದೇ ಆಯಿತು. ಅವರು ಕನ್ನಡ ಭಾಷೆಯ ಉಜ್ಜೀವನಕಾರ್ಯದಲ್ಲಿಯೂ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಸಂವರ್ಧನೆಯ ಕಾರ್ಯದಲ್ಲಿಯೂ ತಮ್ಮನ್ನು ತೊಡಗಿಸಿಕೊಳ್ಳಲು ಇದರಿಂದ ಅವಕಾಶವಾಯಿತು.</p>
+			<p>ಶಾಸ್ತ್ರಿಗಳಿಗೆ ಸಾಂಸಾರಿಕ ಜವಾಬ್ದಾರಿಯ ನಿರ್ವಹಣೆಗೆ ಯಾವುದಾದರೂ ಒಂದು ಸಂಬಳದ ಕೆಲಸ ಅತ್ಯವಶ್ಯವಾಗಿತ್ತು. ಅದಕ್ಕಾಗಿ ಏಳೆಂಟು ತಿಂಗಳು ಪರದಾಟವಾಯಿತು. ಬಳಿಕ ಮೈಸೂರು ಸರ್ಕಾರದ ಡಿಸ್ಟ್ರಿಕ್ಟ್ ಆಫೀಸಿನಲ್ಲಿ ತಿಂಗಳಿಗೆ ೩೫ ರೂಪಾಯಿ ಸಂಬಳದ ಗುಮಾಸ್ತೆಯ﻿ ಕೆಲಸಕ್ಕೆ ಸೇರಿಕೊಂಡರು (೧೯೧೪). ಅಲ್ಲಿ ಅವರಿಗೆ ಕಾಗದ ಪತ್ರಗಳು ಯಾವಾಗಲೂ ಸರಿಯಾಗಿ ವಿಲೇವಾರಿಯಾಗದೆ ಕಟ್ಟುಕಟ್ಟು ಕಾಗದಗಳು ಹಾಗೆಯೇ ಬಿದ್ದಿರುತ್ತಿದ್ದ ಮುಜರಾಯಿ ಇಲಾಖೆಯ ಕೆಲಸವನ್ನು ವಹಿಸಿಕೊಡಲಾಯಿತು. ಆಗ ಡೆಪ್ಯುಟಿ ಕಮೀಷನರ್ ಆಗಿದ್ದವರು ಕುರಿಯನ್ ಮ್ಯಾಥನ್ ಅವರು. ಶಾಸ್ತ್ರಿಗಳ ಸಹೋದ್ಯೋಗಿಗಳಾಗಿದ್ದ ಕೆಲವರ ಚಾಡಿಮಾತುಗಳಿಗೆ ಕಿವಿಗೊಟ್ಟು ಅವರು ಶಾಸ್ತ್ರಿಗಳನ್ನು ಸರಿಯಾಗಿ ನಡಸಿಕೊಳ್ಳಲಿಲ್ಲವೆಂದೂ ಅವರು ಮಾಡಿದ ಒಳ್ಳೆಯ ಕೆಲಸಕ್ಕೆ ಬೆಲೆ ಬರಲಿಲ್ಲವೆಂದೂ ಪ್ರತಿಯಾಗಿ ಕಿರುಕುಳವೇ ಇತ್ತೆಂದೂ ಅವರ ಇನ್ನೊಬ್ಬ ಸಹೋದ್ಯೋಗಿಗಳೂ ಚಿಕ್ಕಂದಿನಿಂದ ಅವರನ್ನು ಚೆನ್ನಾಗಿ ಬಲ್ಲವರೂ ಆದ ಅಂಬಳೆ ಆರ್. ಸದಾಶಿವಯ್ಯನವರು ನೆನಪು ಮಾಡಿಕೊಂಡಿದ್ದಾರೆ.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಡಿಸ್ಟ್ರಿಕ್ಟ್ ಆಫೀಸ್ ಕೆಲಸದಲ್ಲಿದ್ದುದು ಐದು-ಐದೂವರೆ ತಿಂಗಳು ಮಾತ್ರ. ಹೊಟ್ಟೆಪಾಡಿಗಾಗಿ ತಾತ್ಕಾಲಿಕವಾಗಿ ಸೇರಿಕೊಂಡ ಆ ಕೆಲಸವನ್ನು ಬಿಟ್ಟು, ಯಾವುದಾದರೂ ಶಾಲೆ ಕಾಲೇಜಿನಲ್ಲಿ ಅಧ್ಯಾಪಕರಾಗಬೇಕೆಂಬುದೇ ಅವರ ಅಪೇಕ್ಷೆಯಾಗಿತ್ತು. ಅವರ ಅಪೇಕ್ಷೆ ಬಹುಬೇಗ ಈಡೇರಿತು. ಆಗ್ಗೆ ಹೊಸಗನ್ನಡ ಭಾಷಾಸಾಹಿತ್ಯಗಳ ಪುನರುಜ್ಜೀವನಕರ್ತರಲ್ಲಿ ಅಗ್ರಗಣ್ಯರೆನ್ನಿಸಿದ ಎಂ. ಶಾಮರಾಯರ ಬೆಂಬಲದಿಂದ, ಕನ್ನಡ ನವೋದಯದ ಆಚಾರ್ಯ ಪುರುಷರೆನ್ನಿಸಿದ ಹಾಗೂ ಪದವಿಶಿಕ್ಷಣದ ದಿನಗಳಲ್ಲಿ ತಮಗೆ ಗುರುಗಳೇ ಆಗಿದ್ದ ಬಿ.ಎಂ. ಶ್ರೀಕಂಠಯ್ಯನವರ ವಿಶ್ವಾಸದಿಂದ, ಎಂ.ಎ. ಪದವೀಧರರನ್ನು ಹುಡುಕಿ ಆರಿಸಿ ತಂದು ತಮ್ಮ ಕಾಲೇಜಿಗೆ ಬರಮಾಡಿಕೊಳ್ಳುವುದರಲ್ಲಿ ಸಮರ್ಥರೆನ್ನಿಸಿದ್ದ ಹಾಗೂ ಸಂಸ್ಕೃತ ಕನ್ನಡ ಭಾಷೆಗಳ ವಿಷಯದಲ್ಲಿ ಅಭಿಮಾನವಿಟ್ಟುಕೊಂಡಿದ್ದ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನ ಮುಖ್ಯಾಧಿಕಾರಿಗಳಾದ ಆಂಗ್ಲವಿದ್ವಾಂಸ ಟೆಯ್ಟ್  ಅವರ ಪ್ರೋತ್ಸಾಹದಿಂದ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನಲ್ಲಿ ಮೊದಲು ಕನ್ನಡ ಉಪ-ಅಧ್ಯಾಪಕ (ಟ್ಯೂಟರ್‌)ರೆಂದು ನೇಮಕವಾದರು. ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಸ್ವತಂತ್ರವಿದ್ಯಾಪೀಠವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಆರಂಭಿಸುವುದಕ್ಕೆ (೧೯೧೬) ಹಿಂದಿನ ವರ್ಷವಷ್ಟೇ (೧೯೧೫) ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕನ್ನಡ ಅಧ್ಯಾಪನಕಾರ್ಯದಲ್ಲಿ ನಿಯುಕ್ತರಾದುದು ಒಂದು ಯೋಗವೆಂದೇ ಹೇಳಬೇಕು. ಆಗ ಅವರ ಸಂಬಳ ಮಾಹೆಯಾನ ೫೦ ರೂ. ಮೊದಲು ಸ್ವಲ್ಪ ಕಾಲ ಪ್ರತಿ ತಿಂಗಳೂ ಸಂಬಳ ಬಾರದೆ, ಆರು ತಿಂಗಳ ಸಂಬಳ ಒಟ್ಟಿಗೆ ಬರುವಂತಾಗಿ, ಶಾಸ್ತ್ರಿಗಳು ಸಾಲಮಾಡಿ ಕಷ್ಟಪಡಬೇಕಾಯಿತಾದರೂ, ಅವರು ಧೃತಿಗೆಡಲಿಲ್ಲ; ಹಿಡಿದ ಉಪಾಧ್ಯಾಯವೃತ್ತಿಯನ್ನು ಕೈಬಿಡಲಿಲ್ಲ.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ವಿಜ್ಞಾನದ ಕಾಲೇಜೊಂದರಲ್ಲಿ ಕನ್ನಡ ಟ್ಯೂಟರ್ ಎಂದು ಸೇರಿದಾಗ, ಕನ್ನಡದ ಪರಿಸ್ಥಿತಿ ಏನೂ ಉತ್ತಮವಾಗಿರಲಿಲ್ಲ. ಅದಕ್ಕೆ ತಕ್ಕ ಸ್ಥಾನಮಾನಗಳಿರಲಿಲ್ಲ. ಅದರ ಬಗ್ಗೆ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಅಸಡ್ಡೆ, ಅನ್ಯವಿಭಾಗಗಳ ಅಧ್ಯಾಪಕರಿಗೆ ತಿರಸ್ಕಾರ ಎಂಬಂತೆ ಇತ್ತು.﻿ ಕನ್ನಡದಲ್ಲಿ ಕಲಿಯುವುದು ಏನೂ ಇಲ್ಲ ಎಂಬ ಭಾವನೆಯೇ ತುಂಬಿಕೊಂಡಿತ್ತು. ಇಂತಹ ಸನ್ನಿವೇಶದಲ್ಲಿ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಹೋರಾಡಿ ಕನ್ನಡದ ಬಗ್ಗೆ ಎಲ್ಲರಲ್ಲಿಯೂ ಅಭಿಮಾನವನ್ನೂ ಗೌರವವನ್ನೂ ಹುಟ್ಟಿಸಲು ತಮ್ಮ ಸರ್ವಶಕ್ತಿಯನ್ನೂ ವಿನಿಯೋಗಿಸಿದರು. ವಿದ್ಯಾರ್ಥಿಗಳ ಹಾಗೂ ಸಹೋದ್ಯೋಗಿಗಳ ವಿಶ್ವಾಸ ಗೌರವಗಳನ್ನೂ ಸಂಪಾದಿಸಿದರು. ಕನ್ನಡ ಭಾಷೆ ಸಾಹಿತ್ಯಗಳ ಹಿರಿಮೆಗರಿಮೆಗಳನ್ನು ಅವರಿಗೆ ಮನವರಿಕೆ ಮಾಡಿಕೊಟ್ಟರು. ತಾವು ಗಳಿಸಿದ್ದ ಪ್ರಾಚ್ಯ ಮತ್ತು ಪಾಶ್ಚಾತ್ಯ ವಿದ್ಯಾಸಂಸ್ಕಾರಗಳ ಬಲದಿಂದ ಕನ್ನಡ ಭಾಷಾಸಾಹಿತ್ಯಗಳ ಬೋಧನೆಯಲ್ಲಿ ಅಪೂರ್ವವಾದ ಸರಸತೆ ಸೊಗಸುಗಾರಿಕೆಗಳನ್ನೂ ಹೊಸಗಾಳಿಯ ಸಂಚಾರವನ್ನೂ ಹೊಸ ಭಾಷೆ ಶೈಲಿಗಳ ವಿಲಾಸವನ್ನೂ ತಂದರು.</p>
+			<p>ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಇಂಟರ್‌ಮೀಡಿಯೇಟ್ ಪರೀಕ್ಷೆಗೆ ಕನ್ನಡ ಪ್ರಬಂಧಪತ್ರಿಕೆಯಲ್ಲಿ ಒಂದು ಪ್ರಶ್ನೆ ಇಂಗ್ಲಿಷ್ ಪಠ್ಯಗ್ರಂಥದ ಮೇಲೆ ಇರುತ್ತಿತ್ತು. ಅದನ್ನು ಬೋಧಿಸುವುದು ಕನ್ನಡ ಅಧ್ಯಾಪಕರಿಗೆ ಸಾಧ್ಯವಾಗುತ್ತಿರಲಿಲ್ಲ; ಇಂಗ್ಲಿಷ್ ಅಧ್ಯಾಪಕರಿಗೆ ಬೇಕಾಗಿರಲಿಲ್ಲ. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಅದನ್ನು ಸಮರ್ಪಕವಾಗಿ ನಿರ್ವಹಿಸಿದರು. ಇಂಗ್ಲಿಷ್ ಪ್ರಿಯರಾದ ವಿದ್ಯಾರ್ಥಿಗಳ ಗೌರವಾದರಗಳನ್ನು ಗಳಿಸಿದರು. ಇತರ ವಿಷಯಗಳ ಅಧ್ಯಾಪಕರಂತೆಯೇ ಕನ್ನಡ ಅಧ್ಯಾಪಕರು ಸಹ ಎಂಬುದನ್ನು ಸ್ಥಾಪಿಸಿದರು.</p>
+			<p>ಕನ್ನಡ ಭಾಷೆ ಸಾಹಿತ್ಯಗಳ ಚಟುವಟಿಕೆಗಳನ್ನು ಕಾಲೇಜು ಮಟ್ಟದಲ್ಲಿ ಹೆಚ್ಚಿಸಲು ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕೈಕೊಂಡ ಕಾರ್ಯಕ್ರಮಗಳು ಹಲವಾರು. ಇವುಗಳಲ್ಲಿ ಮುಖ್ಯವಾದವು ಎಂದರೆ, ೧೯೧೮ರಲ್ಲಿ ಅವರು ಹುಟ್ಟುಹಾಕಿದ ಕರ್ಣಾಟಕ ಸಂಘವೆಂಬ ಸಾಹಿತ್ಯಿಕಸಂಸ್ಥೆ ಮತ್ತು ೧೯೧೯ರಲ್ಲಿ ಆರಂಭಿಸಿದ ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕವೆಂಬ ಸಾಹಿತ್ಯಿಕಪತ್ರಿಕೆ.  ಈ ಚಟುವಟಿಕೆಗಳು ಚೆನ್ನಾಗಿ ಕಾಲೂರಿ ಬೆಳೆಯಬೇಕು ಎನ್ನುವಾಗಲೇ ಶಾಸ್ತ್ರಿಗಳ ಸ್ಥಾನಕ್ಕೆ ಟಿ.ಎಸ್. ವೆಂಕಣ್ಣಯ್ಯನವರು ಬಂದು, ಶಾಸ್ತ್ರಿಗಳು ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನಿಂದ ಮೈಸೂರಿನ ಪ್ರಾಚ್ಯಕೋಶಾಗಾರ ಕಛೇರಿಗೆ ವರ್ಗವಾದರು (೧೯೧೯). ಅಲ್ಲಿ ಅವರಿಗೆ ಆಗಿನ ಕ್ಯುರೇಟರ್ ಆಗಿದ್ದ ಆರ್. ಶಾಮಶಾಸ್ತ್ರಿಗಳು, ವಹಿಸಿದ ಕೆಲಸ `ಡೆಸ್ಪ್ಯಾಚಿಂಗ್-ರವಾನೆ ಗುಮಾಸ್ತೆ'ಯ ಕೆಲಸ. ಅದರಿಂದ ಶಾಸ್ತ್ರಿಗಳಿಗೆ ಬೇಸರವಾಗಿದ್ದುದು ನಿಜವೇ ಆದರೂ, ಅವರು ತಮ್ಮ ಅಧ್ಯಯನ ಮತ್ತು ಗ್ರಂಥಶೋಧನೆಗಳಿಗೂ ಅವಕಾಶ ಮಾಡಿಕೊಂಡು ಸಾಹಿತ್ಯಾಭ್ಯಾಸದಲ್ಲಿ ಕ್ರಿಯಾಶೀಲರಾಗಿಯೇ ಮುನ್ನಡೆದರು. ಶಾಮಶಾಸ್ತ್ರಿಗಳ ಹೆಸರಿನಲ್ಲಿ ಸಂಸ್ಥೆಯಿಂದ ಪ್ರಕಟವಾಗಿರುವ ಪ್ರಸಿದ್ಧವಾದ ಎರಡು ಪ್ರಾಚೀನ ಕನ್ನಡಗ್ರಂಥಗಳು ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳ ಪರಿಶ್ರಮದ ಫಲವಾಗಿ ಸಿದ್ಧವಾದವು ಎನ್ನುವುದು ಗಮನಿಸಬೇಕಾದ ವಿಷಯ. ಮೈಸೂರು ಪ್ರಾಚ್ಯಕೋಶಾಗಾರದಲ್ಲಿ ಅವರ ಕಾರ್ಯಚಟುವಟಿಕೆಗಳಿಗೆ ಪ್ರತ್ಯಕ್ಷವಾದ ಮನ್ನಣೆ ದೊರೆಯದಿದ್ದರೂ, ಅವರ ವಿದ್ವತ್ತೆಯ ಬೆಳೆವಣಿಗೆ ಹಾಗೂ ಪ್ರಕಟನೆಗಳಿಗೆ, ಪ್ರಾಚೀನ ಕನ್ನಡ ಸಾಹಿತ್ಯದ ಸಂಪಾದನೆ ವಿಮರ್ಶೆಗಳಿಗೆ ಅವುಗಳಿಂದ ತುಂಬ ಒತ್ತಾಸೆ ದೊರೆಯಿತೆಂದೇ ಹೇಳಬೇಕು.</p>
+			<p>೧೯೧೯-೧೯೨೭ರ ಅವಧಿಯ ಪ್ರಾಚ್ಯಕೋಶಾಗಾರದ ಕೆಲಸದ ವರ್ಷಗಳಲ್ಲಿ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಮಹಾರಾಜ ಕಾಲೇಜಿನಲ್ಲಿ ಬೋಧನೆಯ ಕೆಲಸವನ್ನೂ ಕೆಲಮಟ್ಟಿಗೆ ನಿರ್ವಹಿಸುತ್ತಿದ್ದಂತೆ ತೋರುವುದು. ೧೯೨೭ರಲ್ಲಿ ಅಲ್ಲಿ ಕನ್ನಡ ಭಾಷೆ ಸಾಹಿತ್ಯಗಳ ವಿಷಯದಲ್ಲಿ ಎಂ.ಎ. ತರಗತಿ ಪ್ರಾರಂಭವಾದಾಗ ಈ ನಡುವೆ ಪೂರ್ಣಪ್ರಮಾಣದ ಅಧ್ಯಾಪಕರಾಗಿ ನೇಮಕವಾಗಿದ್ದ ಅವರು ಬಡ್ತಿ ಪಡೆದು ಉಪಪ್ರಾಧ್ಯಾಪಕರಾಗಿ ಬೆಂಗಳೂರು ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿಗೆ ಮರಳಿದರು. ಟಿ.ಎಸ್. ವೆಂಕಣ್ಣಯ್ಯನವರು ಪ್ರಾಧ್ಯಾಪಕರಾಗಿ ಬಡ್ತಿ ಪಡೆದು ಮೈಸೂರಿಗೆ ಹಿಂದಿರುಗಿದರು. ವೆಂಕಣ್ಣಯ್ಯನವರು ೧೯೩೯ರಲ್ಲಿ ತಮ್ಮ ೫೨ನೆಯ ವಯಸ್ಸಿನಲ್ಲಿ ಪಡೆದ ಅಕಾಲಿಕಮರಣದಿಂದ, ಶಾಸ್ತ್ರಿಗಳು ಪ್ರಾಧ್ಯಾಪಕಪದವಿಗೆ ಬಡ್ತಿ ಪಡೆದು ಮಹಾರಾಜ ಕಾಲೇಜಿಗೆ ಬಂದು ಕನ್ನಡ ವಿಭಾಗದ ಬೆಳೆವಣಿಗೆಯ ಸಂಪೂರ್ಣ ಜವಾಬ್ದಾರಿಯನ್ನು ಇಲಾಖೆಯ ಮುಖ್ಯರಾಗಿ ವಹಿಸಿಕೊಂಡರು. ತಾವು ೧೯೪೬ರಲ್ಲಿ ನಿವೃತ್ತಿ ಪಡೆಯುವವರೆಗೆ ಇದೇ ಕಾರ್ಯಗೌರವದಲ್ಲಿ ಅವರು ಮುಂದುವರಿದರು.</p>
+			<p>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ನಡೆದು ಬಂದ ದಾರಿ ವೃತ್ತಿಜೀವನದ ದೃಷ್ಟಿಯಿಂದ ಯಶಸ್ವಿಯೆಂದು ಹೇಳಲಾಗದಿದ್ದರೂ ಫಲಪ್ರದ ಎಂಬುದರಲ್ಲಿ ಅನುಮಾನವಿಲ್ಲ. ಅಧ್ಯಾಪಕ, ಪತ್ರಿಕಾಸಂಪಾದಕ, ಲೇಖಕ, ವಾಗ್ಮಿ, ವಿದ್ವಾಂಸ, ಪ್ರಸಾರಕ, ಸಂಘಟಕ ಎಂಬ ಹಲವು ಮುಖಗಳಲ್ಲಿ ಶ್ರದ್ಧೆ ಉತ್ಸಾಹಗಳಿಂದ ಶ್ರಮಿಸಿ ಕನ್ನಡದ ಪುನರುಜ್ಜೀವನವನ್ನು ಸಾಧಿಸಿದ ಮಹನೀಯರು, ಪುಣ್ಯವಂತರು ಅವರು. ಅವರ ಸಾಧನೆಗಳು ಈಗ ಬರಿಯ ಚರಿತ್ರೆಯ ವಿಷಯಗಳಾಗಿಲ್ಲ, ಫಲ ಕೊಡುತ್ತಿರುವ ಕಲ್ಪವೃಕ್ಷಗಳಾಗಿವೆ.</p>
+			<h4>ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳ ಸಾಧನೆಗಳ:</h4>
+			<ul>
+				<li>ಕನ್ನಡ ನಾಡಿನ ಆದ್ಯಂತ ಹಬ್ಬಿ ಬೆಳೆದ ಕರ್ಣಾಟಕ ಸಂಘವೆಂಬ ಸಾಹಿತ್ಯಸಂಸ್ಥೆಗೆ ಬೀಜಪ್ರಾಯವಾಗಿ ಸೆಂಟ್ರಲ್ ಕಾಲೇಜಿನ ಕರ್ಣಾಟಕ ಸಂಘವನ್ನು ಸ್ಥಾಪಿಸಿದರು (೧೯೧೮).</li>
+				<li>ಹೊಸಗನ್ನಡ ಸಾಹಿತ್ಯವನ್ನು ವಿವಿಧ ಮುಖಗಳಲ್ಲಿ ಬೆಳಸಲು ಸಹಕಾರಿಯಾದ, ಹೊಸಗನ್ನಡ ಲೇಖಕರನ್ನು ಸಾಹಿತ್ಯಕೃಷಿಗೆ ಸಜ್ಜುಗೊಳಿಸಿದ ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕವೆಂಬ ಸಾಹಿತ್ಯಪತ್ರಿಕೆಯನ್ನು ಹುಟ್ಟುಹಾಕಿದರು (೧೯೧೯).</li>
+				<li>ಇಂದಿಗೂ ಅಧಿಕೃತ ಇಂಗ್ಲಿಷ್-ಕನ್ನಡ ನಿಘಂಟುವಾಗಿ ಪ್ರಚಾರದಲ್ಲಿರುವ ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಇಂಗ್ಲಿಷ್-ಕನ್ನಡ ನಿಘಂಟುವಿನ ಸಂಪಾದಕ ಸಮಿತಿಯ ಒಬ್ಬ ಸದಸ್ಯರಾಗಿ ಅದರ ಸಿದ್ಧತೆಯಲ್ಲಿ ಶ್ರಮಿಸಿದರು (೧೯೩೩-೪೬).</li>
+				<li>ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯದ ಕನ್ನಡ ಗ್ರಂಥಮಾಲೆಯ ಪ್ರಧಾನಸಂಪಾದಕರಾಗಿದ್ದು, ವಿದ್ಯಾವಂತರಲ್ಲಿ ಸಾಹಿತ್ಯಾಭಿರುಚಿ ವಿಚಾರಶಕ್ತಿ ಜ್ಞಾನ ಸಂಪಾದನೆಗಳಿಗೆ ಅನುಕೂಲವಾಗುವ ಗ್ರಂಥಗಳ ಪ್ರಕಟನೆಯಲ್ಲಿ ಮಾರ್ಗದರ್ಶನಮಾಡಿದರು (೧೯೪೨-೪೬).</li>
+				<li>ಬೆಂಗಳೂರಿನ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಪ್ರತಿಷ್ಠಿತ ವಿದ್ವತ್ಪತ್ರಿಕೆಯಾದ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ ಪತ್ರಿಕೆಯ ಸಂಪಾದಕರಾಗಿದ್ದು, ಪತ್ರಿಕೆ ಹೊಸದೃಷ್ಟಿಯಲ್ಲಿ ಸಾಹಿತ್ಯಸಂಶೋಧನೆಯ ಲೇಖನಗಳಿಂದಲೂ ಸಹಾಯಕಸಾಮಗ್ರಿಗಳಿಂದಲೂ ಉತೃಷ್ಟ ರೀತಿಯಿಂದ ಪ್ರಕಟವಾಗುವಂತೆ ನೋಡಿಕೊಂಡರು (೧೯೪೩-೪೬).</li>
+				<li>ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಕನ್ನಡ ನಿಘಂಟುವಿನ ಅಧ್ಯಕ್ಷರಾಗಿ, ಪ್ರಧಾನಸಂಪಾದಕರಾಗಿ, ಅದಕ್ಕೆ ಖಚಿತವಾದ ರೂಪರೇಖೆಗಳನ್ನು ಹಾಕಿ, ಆರಂಭದ ಕೆಲಸ ಸುವ್ಯವಸ್ಥಿತವಾಗಿ ನಡೆಯುವಂತೆ ಏರ್ಪಾಡುಮಾಡಿದರು (೧೯೪೩-೫೭).</li>
+				<li>ಕಾವ್ಯಸಂಗ್ರಹ, ಕಾವ್ಯ ಮತ್ತು ಶಾಸ್ತ್ರಗ್ರಂಥದ ಸಂಪಾದನೆ, ಕವಿ-ಕಾವ್ಯ ವಿಮರ್ಶೆಯ ಹಾಗೂ ಸಂಶೋಧನೆಯ ಸ್ವತಂತ್ರ ಕೃತಿಗಳು, ಪ್ರಾಚೀನ ಸಂಸ್ಕೃತ ಚಿರಕೃತಿಗಳ ಸಾರಸಂಗ್ರಹರೂಪದ ಕನ್ನಡ ಗದ್ಯಗ್ರಂಥಗಳು, ಬಂಗಾಳಿ ಭಾಷೆಯ ಶ್ರೇಷ್ಠ ಕವಿಕೃತಿಗಳ ವಿಮರ್ಶೆ ಮತ್ತು ಅನುವಾದಗಳು, ಸಣ್ಣಕತೆಗಳು, ಬಹುಸಂಖ್ಯೆಯ ಪರಿಚಯಾತ್ಮಕ, ವಿಮರ್ಶಾತ್ಮಕ ಮತ್ತು ಸಂಶೋಧನಾತ್ಮಕ ಲೇಖನಗಳು, ಪತ್ರಿಕಾಸಂಪಾದಕೀಯಗಳು ಮೊದಲಾದುವುಗಳಿಂದ ಹೊಸಗನ್ನಡದ ಸಾಹಿತ್ಯ ಕ್ಷೇತ್ರವನ್ನು ವಿಸ್ತರಿಸಿದರು(೧೯೧೯-೬೩).</li>
+			</ul>
+			<h4>ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳಿಗೆ ದೊರೆತ ಮನ್ನಣೆ ಮತ್ತು ಪ್ರಶಸ್ತಿಗಳು:</h4>
+			<ul>
+				<li>ಹೈದರಾಬಾದಿನಲ್ಲಿ ಸೇರಿದ್ದ ೨೬ನೆಯ ಕನ್ನಡ ಸಾಹಿತ್ಯ ಸಮ್ಮೇಳನದ ಅಧ್ಯಕ್ಷ ಪದವಿಯನ್ನು ಅಲಂಕರಿಸಿದರು (೧೯೪೧). </li>
+				<li>ಮಿತ್ರರೂ ಶಿಷ್ಯರೂ ಸೇರಿ ಅವರಿಗೆ `ಅಭಿವಂದನೆ' ಎಂಬ ಸಂಭಾವನ ಗ್ರಂಥವನ್ನು ಮೈಸೂರಿನಲ್ಲಿ ಸಮರ್ಪಿಸಿ ಸನ್ಮಾನಿಸಿದರು (೧೯೫೬).﻿</li>
+				<li>ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾನಿಲಯ ಅವರಿಗೆ ಗೌರವ ಡಿ.ಲಿಟ್. ಪದವಿಯನ್ನು ನೀಡಿ ಅವರ ಸಾಧನೆಗಳನ್ನು ಗುರುತಿಸಿತು (೧೯೬೦). </li>
+				<li>ಅವರ 'ಬಂಕಿಮಚಂದ್ರ' ಎಂಬ ವಿಮರ್ಶಕೃತಿಗೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾದೆಮಿಯು ವಾರ್ಷಿಕಪ್ರಶಸ್ತಿ ನೀಡಿ ಗೌರವಿಸಿತು (೧೯೬೧). </li>
+				<li>ಅವರ ನೆನಪಿಗಾಗಿ ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕ ಒಂದು ನೆನಪಿನ ಸಂಚಿಕೆಯನ್ನು ವಿಸ್ತೃತಪ್ರಮಾಣದಲ್ಲಿ ಪ್ರಕಟಿಸಿ, ಅವರ ಜೀವನ ಸಾಧನೆಗಳ ಒಂದು ಸಮಗ್ರಚಿತ್ರವನ್ನು ಅಲ್ಲಿ ದಾಖಲಿಸಿತು (೧೯೬೮). </li>
+				<li>ಕನ್ನಡ ಸಾಹಿತ್ಯ ಪರಿಷತ್ತಿನ ಕನ್ನಡ ನುಡಿ ಮಾಸಪತ್ರಿಕೆಯೂ (೩೧-೪,೫; ೧೯೬೮) ಜೀವನ ಕಾರ್ಯಾಲಯದ ಜೀವನ ಮಾಸಪತ್ರಿಕೆಯು(೧೩-೪,೧೯೫೨) ವಿಶೇಷ ಸಂಚಿಕೆಗಳನ್ನು ಪ್ರಕಟಿಸಿದೆ.</li>
+			</ul>
+			<p>ಕನ್ನಡದ ಪುಣ್ಯಪುರುಷರಲ್ಲಿ ಅಗ್ರಶ್ರೇಣಿಯಲ್ಲಿರುವ ಪ್ರಾಧ್ಯಾಪಕ ಎ.ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ೧೯೬೮ರಲ್ಲಿ, ಫೆಬ್ರವರಿ ೧ರಂದು ಬೆಂಗಳೂರಿನಲ್ಲಿ ತಮ್ಮಪಾರ್ಥಿವಶರೀರವನ್ನು ತ್ಯಜಿಸಿದರು.</p>
 		</div>
 	</div>
 </div>
