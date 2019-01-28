@@ -54,6 +54,8 @@
                 <ul class="navbar-nav nav ml-auto">
                     <li><a href="<?=BASE_URL?>">ಮುಖಪುಟ</a></li>
                     <li><a href="javascript:void();">◦</a></li>
+                    <li><a href="<?=BASE_URL?>Praveshike">ಪ್ರವೇಶಿಕೆ</a></li>
+                    <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>About">ಎ.ಆರ್.ಕೆ ಕುರಿತು</a></li>
                     <li><a href="javascript:void();">◦</a></li>
                     <li><a href="<?=BASE_URL?>Books">ಪುಸ್ತಕಗಳು</a></li>

@@ -45,6 +45,11 @@ a {
     border-bottom: 1px solid rgba(220, 220, 220, 0.8);
     font-size: 17px;
 }
+.bookinfo .cover{
+    width: 230px;
+    float: left;
+    margin: 5px 25px 10px 0px;
+}
 .bookinfo .title{
     font-size: 24px;
     color: #0C1D67;
@@ -122,6 +127,9 @@ a {
 }
 h4, h2{
     color: #0C1D67;
+}
+.footer {
+    margin-top: 50px;
 }
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
