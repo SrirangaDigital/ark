@@ -3,7 +3,7 @@
 		<div class="col-md-5 py-6">
 			<figure class="text-center cover">
 				<img src="<?=IMAGE_URL?>ark.jpg" alt="Images">
-				<h3>ಪ್ರೊಫೆಸರ್. ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ<br /><small>(೧೮೯೦ &ndash; ೧೯೬೮)</small></h3>
+				<h3>ಪ್ರೊಫೆಸರ್ ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ<br /><small>(೧೮೯೦ &ndash; ೧೯೬೮)</small></h3>
 			</figure>
 		</div>
 		<div class="col-md-7 small-note py-3 pl-3">
