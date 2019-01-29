@@ -121,9 +121,15 @@ a {
     margin-bottom: 20px;
 }
 .about .img-thumbnail{
-    height: 450px;
-    margin: 25px;
+    height: 375px;
+    margin: 10px 25px 10px 25px;
+    display: inline-block;
+}
+.right {
     float: right;
+}
+.left {
+    float: left;
 }
 h4, h2{
     color: #0C1D67;
