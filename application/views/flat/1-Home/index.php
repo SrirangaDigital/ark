@@ -1,6 +1,6 @@
 <div class="container flat-page">
 	<div class="row justify-content-center banner">
-		<div class="col-md-5 py-6">
+		<div class="col-md-5 pt-6">
 			<figure class="text-center cover">
 				<img src="<?=IMAGE_URL?>ark.jpg" alt="Images">
 				<h3>ಪ್ರೊಫೆಸರ್ ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ<br /><small>(೧೮೯೦ &ndash; ೧೯೬೮)</small></h3>
@@ -15,9 +15,9 @@
 	</div>
 	<div class="row justify-content-center my-5">
 		<div class="col-md-12 text-center">
-			<h4 class="mb-4">ಪರಿಚಯ</h4>
+			<h2 class="mb-4">ಪರಿಚಯ</h2>
 			<!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/nr4n7foI2bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/nr4n7foI2bk?controls=0&amp;mode=opaque&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;wmode=transparent" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			<video width="650" autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/parichaya.mp4" type="video/mp4"></video>
 		</div>
 	</div>
 	<div class="row mt-6">

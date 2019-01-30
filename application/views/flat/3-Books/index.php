@@ -1,13 +1,9 @@
 <div class="container flat-page">
 	<div class="col-md-6">
-		<div class="row">
-			<div col-md-12>
-				<h2>ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹ</h2>
-			</div>
-		</div>
+		<h2>ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹ</h2>
 	</div>
 	<div class="row">
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="001">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
@@ -30,7 +26,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="002">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
@@ -52,7 +48,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="003">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
@@ -75,7 +71,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="004">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
@@ -98,7 +94,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="005">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="javascript:void(0);">
@@ -120,7 +116,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="006">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
@@ -142,7 +138,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="007">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="javascript:void(0);">
@@ -164,7 +160,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="008">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
@@ -186,7 +182,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="009">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
@@ -208,7 +204,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="010">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
@@ -230,7 +226,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-12 bookinfo">
+		<div class="col-md-12 bookinfo" id="011">
 			<div class="row">
 				<div class="col-md-3">
 					<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
