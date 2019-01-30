@@ -1,7 +1,7 @@
 a {
   color: #1565C0;
 }
-.flat-page, .dynamic-page{
+body{
     margin-top: 75px;
     font-family: 'Nudi', sans-serif;
 }
@@ -28,8 +28,8 @@ a {
     color: #0C1D67;
 }
 .banner .cover img{
-    height: 350px;
-    margin: 40px 0px;
+    height: 425px;
+    margin-bottom: 10px;
 }
 .banner h3 small{
     font-family: 'Nudi';
@@ -48,7 +48,8 @@ a {
 .bookinfo .cover{
     width: 230px;
     float: left;
-    margin: 5px 25px 10px 0px;
+    border-radius: 8px;
+    margin: 5px 25px 30px 0px;
 }
 .bookinfo .title{
     font-size: 24px;
@@ -95,6 +96,11 @@ a {
     color: #0C1D67;
     margin: 10px;
 }
+.blockquote{
+    background-color: #EEEEEE;
+    font-weight: bold;
+    padding: 15px 0px;
+}
 .toc li{
     padding-bottom: 5px;
 }
@@ -120,6 +126,9 @@ a {
     text-indent: 5%;
     margin-bottom: 20px;
 }
+.about .no-indent{
+    text-indent: 0px !important;
+}
 .about .img-thumbnail{
     height: 375px;
     margin: 10px 25px 10px 25px;
@@ -134,12 +143,18 @@ a {
 h4, h2{
     color: #0C1D67;
 }
+.delimeter{
+    text-align: center;
+    letter-spacing: 15px;
+    color: #0C1D67;
+    padding-bottom: 22px;
+}
 .footer {
     margin-top: 50px;
 }
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
-        margin-top: 140px;
+        margin-top: 50px;
     }
     .banner .overlay {
         padding: 40px;
