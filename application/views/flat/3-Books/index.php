@@ -10,7 +10,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/001.jpg" />
 					</a>
 				</div>
@@ -22,7 +22,7 @@
 					</p>
 					<!-- <p><em>ಪ್ರಕಾಶಕರು</em></p> -->
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -33,7 +33,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/002.jpg" />
 					</a>
 				</div>
@@ -44,7 +44,7 @@
 						ಸರ್ವಜ್ಞನ ಕಾಲ, ದೇಶ ಮುಂತಾದ ಸಂಗತಿಗಳಾಗಲಿ ತಾಯಿ, ತಂದೆ, ಗುರು ಮುಂತಾದವರ ವಿಚಾರವಾಗಲಿ ಯಾವುದೂ ನಿಷ್ಕರ್ಶೆಯಾಗಿ ಗೊತ್ತಾಗಿಲ್ಲ. ಅವನ ವಚನಗಳ ಭಾಷೆ ವಿಷಯ ಇವುಗಳ ಸ್ವರೂಪದ ಆಧಾರದ ಮೇಲೆ ಅವನ ಕಾಲವು ಸುಮಾರು 1600 ಎಂದು ಊಹಿಸುತ್ತಾರೆ. ಅವನ ವಚನಗಳಲ್ಲೇನೋ ಅವನ ಊರು, ತಾಯಿ, ತಂದೆ ಇವರ ಹೆಸರನ್ನು ಹೇಳಿದಂತಿದೆ; ಆದರೆ ಈ ವಚನಗಳನ್ನು ಅವನೇ ಬರೆದನೋ ಇನ್ನಾರಾದರೂ ಬರೆದರೋ ತಿಳಿಯದು. ಜನಪ್ರಿಯವಾದ ಹಿಂದಿನ ಗ್ರಂಥಗಳಲ್ಲಿ ಅವನ್ನು ಓದುವವರೆಲ್ಲ ತಾವು ಕೇಳಿದ್ದು, ತಿಳಿದದ್ದು, ಚೆನ್ನಾಗಿದೆ ಎಂದುಕೊಂಡದ್ದು ಇವುಗಳನ್ನು ಸೇರಿಸುವುದುಂಟು. ಹಾಗೇ ಸರ್ವಜ್ಞನ ಹೆಸರಿನಲ್ಲಿರುವ ಸಾವಿರಾರು ವಚನಗಳಲ್ಲಿ ಇತರರು ಬರೆದು ಸೇರಿಸಿರುವ ಹಲವು ಪದ್ಯಗಳಿರುವಂತೆ ತೋರುತ್ತದೆ. ಶ್ರೀಮಾನ್ ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ ಅವರು ಇವುಗಳನ್ನೆಲ್ಲ ಶೇಖರಿಸಿ, ಶೋಧಿಸಿ, ಬಹು ಕಷ್ಟಪಟ್ಟು ಸಂಪಾದನೆ ಮಾಡಿದ್ದಾರೆ. ಸರ್ವಜ್ಞನೇ ಬರೆದಿರಬಹುದಾದವು ಯಾವುದು, ಇತರರು ಬರೆದಿರ ಬಹುದಾದವು ಯಾವುದು ಎಂದು ಊಹಿಸಿ ಅಂಥ ಪದ್ಯಗಳನ್ನು ಗುರುತು ಮಾಡಿದ್ದಾರೆ. ಆದರೂ ಇದನ್ನು ಹೀಗೇ ಎಂದು ನಿರ್ಧರಿಸಿ ಹೇಳುವಂತಿಲ್ಲ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -55,7 +55,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/003.jpg" />
 					</a>
 				</div>
@@ -67,7 +67,7 @@
 					</p>
 					<!-- <p><em>ಬಿ. ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ</em></p> -->
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -78,7 +78,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/004.jpg" />
 					</a>
 				</div>
@@ -90,7 +90,7 @@
 					</p>
 					<!-- <p><em>ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ</em></p> -->
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -123,7 +123,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/006.jpg" />
 					</a>
 				</div>
@@ -134,7 +134,7 @@
 						'ವಚನ ಭಾರತ' ಹೆಸರಿಗೆ ತಕ್ಕಂತೆ ಗದ್ಯದಲ್ಲಿದೆ. ಇದರಲ್ಲಿ ಎಲ್ಲ ಹದಿನೆಂಟು ಪರ್ವಗಳ ಕಥಾವಿವರವಿದೆ... ಹೊಸಗನ್ನಡದ ಅತ್ಯಲ್ಪ ಸುಂದರ ಗದ್ಯಕಾರರಲ್ಲಿ ಅವರೊಬ್ಬರು, ವಿದ್ವತ್ - ಗಾಂಭೀರ್ಯವನ್ನಿಟ್ಟುಕೊಂಡೂ ಸುಲಭ ಶೈಲಿಯಲ್ಲಿ ರಸವತ್ತಾದ ವಿವರಣಪೂರ್ವಕ ಕಥನ ವರ್ಣನಗಳನ್ನು, ಸ್ವಾರಸ್ಯೋಲ್ಲೇಖನವನ್ನು, ರಸವಿಮರ್ಶೆಯನ್ನು ಮಾಡುವಲ್ಲಿ ಶಾಸ್ತ್ರಿಗಳದು ಎತ್ತಿದ ಕೈ... ಕರ್ಮವೀರ 'ಕನ್ನಡ ಕುಲಸಾರಥಿ', 'ಕನ್ನಡದ ಭೀಷ್ಮ', 'ಕನ್ನಡದ ಅಶ್ವಿನೀದೇವತೆ' ಮುಂತಾದ ಪ್ರಶಂಸೆಗಳಿಗೆ ಪಾತ್ರರಾಗಿರುವ ಡಾ॥ ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ (೧೮೯೦ - ೧೯೬೮) ಅವರು ಈ ಅಮೂಲ್ಯ ಕೃತಿಯ ರಚನಕಾರರು. ಮದರಾಸು ವಿಶ್ವವಿದ್ಯಾಲಯದಿಂದ ಕನ್ನಡ ಮತ್ತು ಸಂಸ್ಕೃತ ಎಂ. ಎ. ಪದವೀಧರರು. ಮೈಸೂರು ವಿಶ್ವವಿದ್ಯಾಲಯವು ಗೌರವ ಡಿ.ಲಿಟ್. ಪದವಿ ನೀಡಿ ಇವರನ್ನು ಗೌರವಿಸಿದೆ. ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿ ಪ್ರಶಸ್ತಿ ಪುರಸ್ಕೃತರು. ಇವರ ಇನ್ನೊಂದು ಉತ್ಕೃಷ್ಟ ಕೃತಿ 'ಕಥಾಮೃತ' ನವಕರ್ನಾಟಕದಿಂದ ಪ್ರಕಟವಾಗಿದೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -167,7 +167,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/008.jpg" />
 					</a>
 				</div>
@@ -178,7 +178,7 @@
 						ಭಾಸ ಕವಿಯು ಬಹು ಪ್ರಾಚೀನನಾದ ನಾಟಕ ಕರ್ತ; ಅಶ್ವಘೋಷ ರಚಿತವಾದ ಕೆಲವು ನಾಟಕಗಳ ತುಂಡುಗಳನ್ನು ಬಿಟ್ಟರೆ, ಭಾಸ ನಾಟಕಗಳೇ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದಲ್ಲಿ ಈಗ ದೊರೆತಿರುವ ಪ್ರಾಚೀನತಮವಾದ ನಾಟಕಗಳೆಂದು ಹೇಳಬಹುದು.  ಹಳೆಯವಾಗಲಿ ಹೊಸವಾಗಲಿ ಈ ಗ್ರಂಥಗಳಲ್ಲಿ ಶ್ಲಾಘ್ಯವಾದ ಕಾವ್ಯಗುಣಗಳಿವೆ; ಆದ್ದರಿಂದ ಇವು ಪ್ರಕಟವಾಗುವುದೇ ತಡ, ನಮ್ಮ ದೇಶದ ಮತ್ತು ಹೊರಗಿನ ನಾನಾ ಭಾಷೆಗಳಿಗೆ ತರ್ಜುಮೆಯಾಗಿ ಮೆಚ್ಚುಗೆಯನ್ನು ಪಡೆದುವು; ಇವುಗಳಲ್ಲಿ ಒಂದೆರಡು ಹೊರತು ಪ್ರಾಯಶಃ ಮಿಕ್ಕವೆಲ್ಲವೂ ಗದ್ಯಪದ್ಯಾತ್ಮಕವಾಗಿಯಾಗಲಿ ಗದ್ಯ ರೂಪವಾಗಿಯಾಗಲಿ ಕನ್ನಡಕ್ಕೂ ಭಾಷಾಂತರವಾಗಿವೆ.	
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -189,7 +189,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/009.jpg" />
 					</a>
 				</div>
@@ -200,7 +200,7 @@
 						'ನಿರ್ಮಲ ಭಾರತೀ' ಎಂದರೆ ತಿಳಿಯಾದ ಮಾತು ಎಂದೂ ಅರ್ಥವಾಗುತ್ತದೆ. ಚಿಕ್ಕ ಮಕ್ಕಳು ಮಹಾಭಾರತದ ಕಥೆ, ಅದರಲ್ಲಿ ಬರುವ ರಾಮನ ಕಥೆ, ಸಾವಿತ್ರಿಯ ಕಥೆ, ನಳನ ಕಥೆ ಇಂಥವುಗಳನ್ನು ಓದಿ ಜ್ಞಾಪಕದಲ್ಲಿಟ್ಟುಕೊಂಡರೆ ಸಾಕು. ಅವರ ಮನಸ್ಸಿನ ಮೇಲೆ ಅವು ಪೀಠಿಕೆಗಿಂತ ಹೆಚ್ಚು ಪರಿಣಾಮವನ್ನು ಉಂಟುಮಾಡುತ್ತವೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -211,7 +211,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/010.jpg" />
 					</a>
 				</div>
@@ -222,7 +222,7 @@
 						ಯಾರ ದಿವ್ಯಚರಿತ್ರವು ನನ್ನ ಧಾರ್ಮಿಕ ಜೀವನದಲ್ಲಿ ಮೊದಲು ದಾರಿ ತೋರಿಸಿತೋ, ಯಾರ ಅದ್ಭುತ ದೈನ್ಯವು ಸರ್ವಂಸಹೆ ಎಂದು ಹೆಸರು ಪಡೆದಿರುವ ಭೂದೇವಿಯನ್ನೂ ಜಯಿಸಿತೋ, ಯಾರು ಗೃಹಸ್ಥರಾಗಿದ್ದೂ ಸರ್ವತ್ಯಾಗಿಗಳಾದ ಸಂನ್ಯಾಸಿಗಳ  ಶ್ರದ್ಧಾಭಕ್ತಿಗಳಿಗೆ ಪಾತ್ರರೆಂದು  ಗಣ್ಯರಾಗಿದ್ದರೋ, ಮತ್ತು ಯಾರ ತ್ಯಾಗ ಕ್ಷಮೆ ತಪಸ್ಸು ಮತ್ತು ತೀವ್ರ ತೇಜಸ್ವಿತೆಗಳು ನಿಜವಾಗಿಯೂ ಅಲೋಕ ಸಾಮಾನ್ಯವಾಗಿದ್ದುವೋ, ಆ ಶ್ರೀ ರಾಮಕೃಷ್ಣ ಗತಪ್ರಾಣರಾದ ನಾಗಮಹಾಶಯರ ಜೀವನದಲ್ಲಿ ಕೆಲವು ಸಂಗತಿಗಳನ್ನು ಬರೆದಿಡಬೇಕೆಂಬ ಆಸೆಯು ಬಹುಕಾಲದಿಂದ ಬಲವಾಗಿದ್ದರೂ ನಾನಾ ಕಾರಣಗಳಿಂದ ಅದು ನೆರವೇರಲಿಲ್ಲ. ಆಮೇಲೆ ಮಾನನೀಯ ನಾಟಕ ಕರ್ತರಾದ ಗಿರೀಶಚಂದ್ರ  ಘೋಷ ಮಹಾಶಯರು ಈ ವಿಷಯದಲ್ಲಿ ನನ್ನನ್ನು ಉತ್ಸಾಹಗೊಳಿಸಿದ್ದರಿಂದಲೂ, ಅವರು ಮತ್ತು ಸ್ವಾಮಿ ಶಾರದಾನಂದರು ಈ ಗ್ರಂಥವನ್ನು ಮೊದಲಿಂದ ಕೊನೆಯವರೆಗೆ ನೋಡಿಕೊಟ್ಟದ್ದರಿಂದಲೂ, ಸುತರಾಂ ಅನಧಿಕಾರಿಯೆಂದು ತಿಳಿದೂ ತಿಳಿದೂ, ನಾನು ಈ ಮಹಾಪುರುಷರ ಜೀವನ ಚರಿತ್ರೆಯಲ್ಲಿ ಸ್ವಲ್ಪ ಭಾಗವನ್ನು ಹೀಗೆ ಬರೆಯಲು ಸಾಹಸಪಟ್ಟಿದ್ದೇನೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -233,7 +233,7 @@
 		<div class="col-md-12 bookinfo">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/011.jpg" />
 					</a>
 				</div>
@@ -244,12 +244,17 @@
 						ಕವಿರಾಜಮಾರ್ಗದಲ್ಲಿರುವಂತೆ ಕನ್ನಡಗಳು ರಸ ಭಾವ ನಾಯಕ ನಾಯಕಿಯರು ಮುವ್ವತ್ತಾರು ಅಲಂಕೃತಿಗಳು ಲಿಂಗ ಸಮಾಸ ಆಖ್ಯಾತ ನಿಘಂಟು ಕಾಮಶಾಸ್ತ್ರ ಮನ್ಮಥಾಸ್ತ್ರ ಮೋಹ ವಿರಹ ಇವುಗಳನ್ನು ಹೆಸರಿಸಿದ್ದಾನೆ. ಹಿಂದಿನ ಲಕ್ಷಣ ಗ್ರಂಥಕರ್ತರಾದ ವಾಮನ ಭಾಮಹಾದಿಗಳು ತಮ್ಮ ಗ್ರಂಥಗಳಲ್ಲಿ ಬರಿಯ ಕಾವ್ಯಲಕ್ಷಣವಷ್ಟನ್ನೇ ಹೇಳದೆ, ವ್ಯಾಕರಣ, ನ್ಯಾಯಾದಿಗಳ ಪ್ರಯೋಗವನ್ನೂ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಸ್ಪರ್ಶಿಸಿದ್ದಾರೆ. ಕವಿಯಾದವನಿಗೆ ಬರಿಯ ವ್ಯಾಕರಣವಾಗಲಿ ಛಂದಸ್ಸಾಗಲಿ ಅಲಂಕಾರವಾಗಲಿ ನಿಘಂಟಾಗಲಿ ತಿಳಿದರೆ ಸಾಲದು, ಇವೆಲ್ಲವೂ ಬೇಕು ಎಂಬುದು ಅವರ ಭಾವ. ಅದೇ ಸಂಪ್ರದಾಯ ಮುಂದೂ ಕೆಲವು ಕಾಲ ನಡೆದುಕೊಂಡು ಬಂತು. ಆ ಸಂಪ್ರದಾಯವನ್ನೇ ಆಂಧ್ರಲಕ್ಷಣಗ್ರಂಥಕರ್ತರೂ ಈಶ್ವರ ಕವಿಯೂ ಅನುಸರಿಸಿರುವಂತೆ ತೋರುತ್ತದೆ. ಆದ್ದರಿಂದ ‘ಕವಿಜಿಹ್ವಾಬಂಧನ'ವೆಂದರೆ ಕವಿಯ ನಾಲಗೆಗೆ ಛಂದಸ್ಸಿನ ಕಟ್ಟು, ಒಂದೇ ಅಲ್ಲ, ಲಕ್ಷಣಶಾಸ್ತ್ರದೊಳಗೆ ಸೇರುವ ಮಿಕ್ಕೆಲ್ಲ ಶಾಸ್ತ್ರಗಳ ಕಟ್ಟೂ ಎಂದು ತಿಳಿಯಬೇಕು.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
 <!-- <div class="col-md-12 bookinfo">
 <div class="row">
 <div class="col-md-3">
@@ -271,5 +276,3 @@
 	</a>
 </p>
 </div> -->
-</div>
-</div>

@@ -13,32 +13,39 @@
 			<p class="text-right more"><a href="<?=BASE_URL?>Praveshike">ಮುಂದೆ ಓದಿ...</a></p>
 		</div>
 	</div>
-	<div class="row mt-5">
+	<div class="row justify-content-center my-5">
+		<div class="col-md-12 text-center">
+			<h4 class="mb-4">ಪರಿಚಯ</h4>
+			<!-- <iframe width="800" height="450" src="https://www.youtube.com/embed/nr4n7foI2bk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+			<iframe width="560" height="315" src="https://www.youtube.com/embed/nr4n7foI2bk?controls=0&amp;mode=opaque&amp;rel=0&amp;autohide=1&amp;showinfo=0&amp;wmode=transparent" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		</div>
+	</div>
+	<div class="row mt-6">
 		<div col-md-12>
 			<h2>ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹ</h2>
 		</div>
 	</div>
 	<div class="row booksCollection">
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/001.jpg" />
 				<p class="title">ಶ್ರೀಪತಿಯ ಕಥೆಗಳು</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/002.jpg" />
 				<p class="title">ಸರ್ವಜ್ಞ ಕವಿ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/003.jpg" />
 				<p class="title">ಸಂಸ್ಕೃತ ನಾಟಕ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/004.jpg" />
 				<p class="title">ಭಾಷಣಗಳು ಮತ್ತು ಲೇಖನಗಳು</p>
 			</a>
@@ -46,11 +53,11 @@
 		<div class="col-md-2 p-1">
 			<a href="javascript:void(0);">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/005.jpg" />
-				<p class="title">ಬಂಕಿಮ್ ಚಂದ್ರ</p>
+				<p class="title">ಬಂಕಿಮಚಂದ್ರ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/006.jpg" />
 				<p class="title">ವಚನ ಭಾರತ</p>
 			</a>
@@ -62,27 +69,27 @@
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/008.jpg" />
-				<p class="title">ಬಾಸ ಕವಿ</p>
+				<p class="title">ಭಾಸಕವಿ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/009.jpg" />
-				<p class="title">ನಿರ್ಮಲ ಭಾರತಿ</p>
+				<p class="title">ನಿರ್ಮಲ ಭಾರತೀ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/010.jpg" />
-				<p class="title">ನಾಗ ಮಹಾಶಯ</p>
+				<p class="title">ನಾಗಮಹಾಶಯ</p>
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/011.jpg" />
-				<p class="title">ಕವಿ ಜಿಹ್ವಾ ಬಂಧನಂ</p>
+				<p class="title">ಈಶ್ವರಕವಿ ವಿರಚಿತಂ ಕವಿಜಿಹ್ವಾಬಂಧನಂ</p>
 			</a>
 		</div>
 		<!-- <div class="col-md-2 p-1">
