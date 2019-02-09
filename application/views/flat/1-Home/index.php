@@ -20,9 +20,15 @@
 			<video width="650" autoplay controls id="bgvid" src="<?=PUBLIC_URL?>videos/parichaya.mp4" type="video/mp4"></video>
 		</div>
 	</div>
-	<div class="row mt-6">
-		<div col-md-12>
+	<div class="row mt-5">
+		<div class="col-md-12">
 			<h2>ಪುಸ್ತಕಗಳ ಸಂಗ್ರಹ</h2>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-12 p-4 m-4 small-note">
+			<p>The e-books are meant to be used for personal study. They are not to be copied or reposted for promotion of any website or individuals or for commercial purpose without written permission from copyright holders.</p>
+			<p>ಇಲ್ಲಿ ಲಭ್ಯವಿರುವ ಈ-ಪುಸ್ತಕಗಳು ಹಾಗು ಮಾಹಿತಿಯು ಓದುಗರ ಸ್ವಂತ ಉಪಯೋಗಕ್ಕೆ ಮಾತ್ರ. ಹಕ್ಕುದಾರರ ಲಿಖಿತ ಅನುಮತಿಯಿಲ್ಲದೆ ಇವುಗಳನ್ನು ಪ್ರತಿಮಾಡುವುದಾಗಲಿ ಅಥವಾ ಬೇರೆ ಜಾಲತಾಣಗಳ ಪ್ರಚಾರಕ್ಕಾಗಲಿ ಬಳಸುವಂತ್ತಿಲ್ಲ.  </p>
 		</div>
 	</div>
 	<div class="row booksCollection">

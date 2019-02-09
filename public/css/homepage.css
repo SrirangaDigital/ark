@@ -12,6 +12,9 @@ body{
 .banner{
     padding-top: 60px;
 }
+.small-note{
+    background: rgba(153, 204, 255, 0.1);
+}
 .banner .small-note{
     font-family: 'Nudi';
     font-size: 18px;
