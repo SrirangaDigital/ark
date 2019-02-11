@@ -1,7 +1,7 @@
     <div class="container footer"><!-- container -->
         <div class="row justify-content-center"><!-- row -->
             <div class="col-md-12 text-center">
-                <p><small>© ಎನ್. ಶ್ರೀಪತಿ, ಸಿ. ಆರ್. ಸತ್ಯ ಮತ್ತು ಆರ್. ಭಾರತೀ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನೂ ಕಾದಿರಿಸಲಾಗಿದೆ.</small></p>
+                <p><small><span class="eng">©</span> ಎನ್. ಶ್ರೀಪತಿ, ಸಿ. ಆರ್. ಸತ್ಯ ಮತ್ತು ಆರ್. ಭಾರತೀ. ಎಲ್ಲ ಹಕ್ಕುಗಳನ್ನೂ ಕಾದಿರಿಸಲಾಗಿದೆ.</small></p>
             </div>
         </div>
     </div>

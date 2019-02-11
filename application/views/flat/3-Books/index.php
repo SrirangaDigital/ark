@@ -6,7 +6,7 @@
 		<div class="col-md-12 bookinfo" id="001">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/001.jpg" />
 					</a>
 				</div>
@@ -18,9 +18,9 @@
 					</p>
 					<!-- <p><em>ಪ್ರಕಾಶಕರು</em></p> -->
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=k5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -29,7 +29,7 @@
 		<div class="col-md-12 bookinfo" id="002">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/002.jpg" />
 					</a>
 				</div>
@@ -40,9 +40,9 @@
 						ಸರ್ವಜ್ಞನ ಕಾಲ, ದೇಶ ಮುಂತಾದ ಸಂಗತಿಗಳಾಗಲಿ ತಾಯಿ, ತಂದೆ, ಗುರು ಮುಂತಾದವರ ವಿಚಾರವಾಗಲಿ ಯಾವುದೂ ನಿಷ್ಕರ್ಷೆಯಾಗಿ ಗೊತ್ತಾಗಿಲ್ಲ. ಅವನ ವಚನಗಳ ಭಾಷೆ, ವಿಷಯ ಇವುಗಳ ಸ್ವರೂಪದ ಆಧಾರದ ಮೇಲೆ ಅವನ ಕಾಲವು ಸುಮಾರು 1600 ಎಂದು ಊಹಿಸುತ್ತಾರೆ. ಅವನ ವಚನಗಳಲ್ಲೇನೋ ಅವನ ಊರು, ತಾಯಿ, ತಂದೆ ಇವರ ಹೆಸರನ್ನು ಹೇಳಿದಂತಿದೆ; ಆದರೆ ಈ ವಚನಗಳನ್ನು ಅವನೇ ಬರೆದನೋ ಇನ್ನಾರಾದರೂ ಬರೆದರೋ ತಿಳಿಯದು. ಅವನ ವಚನಗಳನ್ನು ಓದಿದವರು- ತಾವು ಕೇಳಿದ್ದು, ತಿಳಿದದ್ದು, ಚೆನ್ನಾಗಿದೆ ಎಂದುಕೊಂಡದ್ದನ್ನು ತಾವೂ ಸೇರಿಸಿರಬಹುದು- ಏಕೆಂದರೆ ಸರ್ವಜ್ಞನ ಹೆಸರಿನಲ್ಲಿರುವ ಸಾವಿರಾರು ವಚನಗಳಲ್ಲಿ ಇತರರು ಬರೆದು ಸೇರಿಸಿರುವ ಹಲವು ಪದ್ಯಗಳಿರುವಂತೆ ಕಂಡುಬಂದಿದೆ. ಶ್ರೀಮಾನ್ ಚನ್ನಪ್ಪ ಉತ್ತಂಗಿ ಅವರು ಇವುಗಳನ್ನೆಲ್ಲ ಶೇಖರಿಸಿ, ಶೋಧಿಸಿ, ಬಹು ಕಷ್ಟಪಟ್ಟು ಸಂಪಾದನೆ ಮಾಡಿದ್ದಾರೆ. ಸರ್ವಜ್ಞನೇ ಬರೆದಿರಬಹುದಾದವು ಯಾವುದು, ಇತರರು ಬರೆದಿರಬಹುದಾದವು ಯಾವುದು ಎಂದು ಊಹಿಸಿ ಅಂಥ ಪದ್ಯಗಳನ್ನು ಗುರುತು ಮಾಡಿದ್ದಾರೆ. ಆದರೆ ಸರ್ವಜ್ಞನ ವಚನಗಳಲ್ಲದೆ- ಸರ್ವಜ್ಞನಬಗ್ಗೆ, ಅವನ ಕಾಲದಬಗ್ಗೆ, ಅವನ ವಚನಗಳಬಗ್ಗೆ ವಿಮರ್ಶಾತ್ಮಕವಾದ ಕೃತಿಯನ್ನು ಮೊದಲು ಬರೆದವರು ಎ. ಆರ್ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳೇ ಅನ್ನಿಸುತ್ತಿದೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=kZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -51,7 +51,7 @@
 		<div class="col-md-12 bookinfo" id="003">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/003.jpg" />
 					</a>
 				</div>
@@ -63,9 +63,9 @@
 					</p>
 					<!-- <p><em>ಬಿ. ಎಂ. ಶ್ರೀಕಂಠಯ್ಯ</em></p> -->
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=jZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -74,7 +74,7 @@
 		<div class="col-md-12 bookinfo" id="004">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/004.jpg" />
 					</a>
 				</div>
@@ -86,9 +86,9 @@
 					</p>
 					<!-- <p><em>ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರೀ</em></p> -->
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=i5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -97,7 +97,7 @@
 		<div class="col-md-12 bookinfo" id="005">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/005.jpg" />
 					</a>
 				</div>
@@ -108,9 +108,9 @@
 						ಎ. ಆರ್. ಕೃ. ಅವರು ಮೊದಲು ಓದಿದ ಬಂಕಿಮಚಂದ್ರರ ಕೃತಿ, ಶ್ರೀ ಬಿ. ವೆಂಕಟಾಚಾರ್ಯರು ಕನ್ನಡಕ್ಕೆ ತರ್ಜುಮೆ ಮಾಡಿದ್ದ ‘ಆನಂದಮಠ’. ಅದನ್ನು ಮೂಲದಲ್ಲಿ ಓದಬೇಕೆಂದು ಬಂಗಾಲೀ ಭಾಷೆಯನ್ನು ಕಲಿತು- ಆ ಭಾಷೆಯನ್ನು ಕರತಲಾಮಲಕವನ್ನಾಗಿ ಮಾಡಿಕೊಂಡರು. ನಿವೃತ್ತರಾದ ಮೇಲೆ, ಪಾಠ ಹೇಳುವಾಗ ತಾವು ಮಾಡಿಕೊಂಡಿದ್ದ ಟಿಪ್ಪಣಿಗಳನ್ನೆಲ್ಲಾ ಸೇರಿಸಿ ‘ಬಂಕಿಮಚಂದ್ರ’ (ಬಂಕಿಮರ ಜೀವನ ಚರಿತ್ರೆ-ಕೃತಿ-ವಿಮರ್ಶೆ) ಬರೆದರು.ಇದಕ್ಕೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಬಹುಮಾನ ಬಂತು. ವೃದ್ಧಾಪ್ಯದಿಂದಾಗಿ ದೆಹಲಿಗೆ ಹೋಗಲು ನಿರಾಕರಿಸಿದಾಗ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯವರೇ ಅವರ ಮನೆಬಾಗಿಲಿಗೆ ಬಂದು ಆಹ್ವಾನಿತ ಸನ್ಮಿತ್ರರ ಮುಂದೆ ಗೌರವಿಸಿ ಸಮಾರಂಭವನ್ನು ನಡೆಸಿದರು. ಇಂತಹ ಸನ್ಮಾನವನ್ನು ಪಡೆದ ಕನ್ನಡಿಗರಲ್ಲಿ ಎ. ಆರ್. ಕೃ. ಅವರು ಮೊದಲನೆಯವರು. ಆ ಸಂದರ್ಭದಲ್ಲಿ ಬಂಗಾಳದ ಅಮೃತ ಬಜಾರ್ ಪತ್ರಿಕೆಯವರು ಒಂದು ಹೇಳಿಕೆಯನ್ನಿತ್ತು, "ಒಬ್ಬ ಬೆಂಗಾಲಿ ಮಾಡಲಾಗದ ಕೆಲಸವನ್ನು, ಬೆಂಗಾಲಿಯಬಗ್ಗೆ- ಮಾತೃಭಾಷೆ ಕನ್ನಡ ಆಗಿರುವ ಒಬ್ಬರು ಮಾಡಿರುವುದು- ಇಂಥ ಪುಸ್ತಕವನ್ನು ಬರೆದು, ಪುರಸ್ಕಾರ ಪಡೆಯುತ್ತಿರುವುದು ಶ್ಲಾಘನೀಯ" ಎಂದಿದ್ದಾರೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -119,7 +119,7 @@
 		<div class="col-md-12 bookinfo" id="006">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/006.jpg" />
 					</a>
 				</div>
@@ -130,9 +130,9 @@
 						'ವಚನ ಭಾರತ' ಹೆಸರಿಗೆ ತಕ್ಕಂತೆ ಗದ್ಯದಲ್ಲಿದೆ. ಇದರಲ್ಲಿ ಎಲ್ಲ ಹದಿನೆಂಟು ಪರ್ವಗಳ ಕಥಾವಿವರವಿದೆ. ಹೊಸಗನ್ನಡದ ಅತ್ಯಲ್ಪ ಸುಂದರ ಗದ್ಯಕಾರರಲ್ಲಿ ಡಾ॥ ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಪ್ರಮುಖರು. ವಿದ್ವತ್ - ಗಾಂಭೀರ್ಯವನ್ನಿಟ್ಟುಕೊಂಡೂ ಸುಲಭ ಶೈಲಿಯಲ್ಲಿ ರಸವತ್ತಾದ- ವಿವರಣಪೂರ್ವಕ ಕಥನ ವರ್ಣನಗಳನ್ನೂ, ಸ್ವಾರಸ್ಯೋಲ್ಲೇಖನವನ್ನೂ, ರಸವಿಮರ್ಶೆಯನ್ನೂ ಮಾಡುವಲ್ಲಿ ಶಾಸ್ತ್ರಿಗಳದು ಎತ್ತಿದ ಕೈ. ವಚನಭಾರತ- ಪ್ರತಿಯೊಬ್ಬ ಕನ್ನಡಿಗನೂ ಓದಲೇ ಬೇಕಾದ ಕೃತಿ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=h5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -141,7 +141,7 @@
 		<div class="col-md-12 bookinfo" id="007">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/007.jpg" />
 					</a>
 				</div>
@@ -152,9 +152,9 @@
 						ಸೋಮದೇವನ 'ಕಥಾಸರಿತ್ಸಾಗರ' ಸಂಸ್ಕೃತದಲ್ಲಿರುವ ಒಂದು ದೊಡ್ಡ ಕಾವ್ಯ. ಪ್ರಪಂಚದ ಹಿರಿಯ ಭಾಷೆಗಳಿಗೆಲ್ಲಾ ಭಾಷಾಂತರವಾಗಿ ಕಥಾಶಾಸ್ತ್ರ ವ್ಯಾಸಂಗಕ್ಕೆ ಸಾಧನವಾಗಿರುವ ಕಾವ್ಯ. ಕಥೆಗಳೆಂಬ ನದಿಗಳು ಬಂದು ಸೇರಿ ಆಗಿರುವ ಸಾಗರವೇ 'ಕಥಾಸರಿತ್ಸಾಗರ'. 'ಕಥಾಮೃತ' ಅದರ ಸಂಗ್ರಹರೂಪ. 'ಕಥಾಮೃತ'ದಲ್ಲಿ ಬೇಕಾದಷ್ಟು ಕಥೆಗಳಿವೆ; ಎಲ್ಲ ವಯಸ್ಸಿನ, ಎಲ್ಲ ಸಂಸ್ಕಾರಗಳ, ಎಲ್ಲ ರುಚಿಗಳ ಜನರಿಗೂ ಪ್ರಿಯವಾಗುವ, ಹಿತವಾಗುವ ಕಥೆಗಳಿವೆ. ಇದು ಪ್ರಾಚೀನ ಭರತಖಂಡದ ಅತ್ಯುತ್ತಮ ಕಥೆಗಳ - ನೂರಾರು ಕಥೆಗಳ - ಭಂಡಾರ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -163,7 +163,7 @@
 		<div class="col-md-12 bookinfo" id="008">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/008.jpg" />
 					</a>
 				</div>
@@ -174,9 +174,9 @@
 						ಭಾಸಕವಿಯು ಬಹು ಪ್ರಾಚೀನನಾದ ನಾಟಕ ಕರ್ತೃ; ಅಶ್ವಘೋಷ ರಚಿತವಾದ ಕೆಲವು ನಾಟಕಗಳ ತುಂಡುಗಳನ್ನು ಬಿಟ್ಟರೆ, ಭಾಸ ನಾಟಕಗಳೇ ಸಂಸ್ಕೃತ ಸಾಹಿತ್ಯದಲ್ಲಿ ಈಗ ದೊರೆತಿರುವ ಪ್ರಾಚೀನತಮವಾದ ನಾಟಕಗಳೆಂದು ಹೇಳಬಹುದು. ಈ ಗ್ರಂಥಗಳಲ್ಲಿ ಶ್ಲಾಘ್ಯವಾದ ಕಾವ್ಯಗುಣಗಳಿವೆ; ಆದ್ದರಿಂದ ಇವು ಪ್ರಕಟವಾಗುವುದೇ ತಡ- ನಮ್ಮ ದೇಶದ ಮತ್ತು ಹೊರಗಿನ- ನಾನಾ ಭಾಷೆಗಳಿಗೆ ತರ್ಜುಮೆಯಾಗಿ ಮೆಚ್ಚುಗೆಯನ್ನು ಪಡೆದುವು; ಇವುಗಳಲ್ಲಿ ಒಂದೆರಡರ ಹೊರತು ಪ್ರಾಯಶಃ ಮಿಕ್ಕವೆಲ್ಲವೂ ಗದ್ಯಪದ್ಯಾತ್ಮಕವಾಗಿಯಾಗಲಿ ಗದ್ಯರೂಪವಾಗಿಯಾಗಲಿ ಕನ್ನಡಕ್ಕೂ ಭಾಷಾಂತರವಾಗಿವೆ. ಆದರೆ ‘ಭಾಸಕವಿ’ ಮತ್ತು ಅವನ ‘ಕೃತಿ’ಗಳ ವಿಮರ್ಶೆಯನ್ನು ಇಷ್ಟೊಂದು ವಿಸ್ತಾರವಾಗಿ ಬರೆದಿರುವವರು ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳೊಬ್ಬರೇ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=hZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -185,7 +185,7 @@
 		<div class="col-md-12 bookinfo" id="009">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/009.jpg" />
 					</a>
 				</div>
@@ -196,9 +196,9 @@
 						'ನಿರ್ಮಲ ಭಾರತೀ' ಎಂದರೆ ತಿಳಿಯಾದ ಮಾತು ಎಂದೂ ಅರ್ಥವಾಗುತ್ತದೆ. ಚಿಕ್ಕ ಮಕ್ಕಳು ಮಹಾಭಾರತದ ಕಥೆಯನ್ನು ಸುಲಭವಾಗಿ ಓದಿ ನೆನಪಿಟ್ಟುಕೊಳ್ಳಲು ಎ. ಆರ್ ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಬರೆದ ವಚನ ಭಾರತದ ಸಂಕ್ಷಿಪ್ತ ರೂಪವೇ- ಅವರೇ ಬರೆದ- ನಿರ್ಮಲಭಾರತಿ. ಇದರಲ್ಲಿ ಬರುವ ರಾಮನ ಕಥೆ, ಸಾವಿತ್ರಿಯ ಕಥೆ, ನಳನ ಕಥೆ ಇಂಥವುಗಳು ಸುಲಭವಾಗಿ ಮಕ್ಕಳಿಗೆ ಅರ್ಥವಾಗುತ್ತದೆ- ನೆನಪಿನಲ್ಲಿ ಉಳಿಯುತ್ತವೆ. ತಮ್ಮ ಮೊಮ್ಮಕ್ಕಳನ್ನು ಮನಸ್ಸಿನಲ್ಲಿಟ್ಟು ಮಕ್ಕಳಿಗೋಸ್ಕರವೇ ಬರೆದ ಕೃತಿ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=f5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -207,7 +207,7 @@
 		<div class="col-md-12 bookinfo" id="010">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/010.jpg" />
 					</a>
 				</div>
@@ -218,9 +218,9 @@
 						ನಾಗಮಹಾಶಯ- ಶ್ರೀರಾಮಕೃಷ್ಣ ಪರಮಹಂಸರ ಭಕ್ತ. ವಿವೇಕಾನಂದರ ಪ್ರತ್ಯೇಕ ಮನ್ನಣೆಗೆ ಪಾತ್ರನಾದ ವ್ಯಕ್ತಿ. ಅವರ ಜೀವನ ಚರಿತ್ರೆಯನ್ನು ತಮ್ಮದೇ ಆದ ಶೈಲಿಯಲ್ಲಿ ಬರೆದಿದ್ದಾರೆ ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು. ಶ್ರೀರಾಮಕೃಷ್ಣರಮೇಲೆ ನಾಗಮಹಾಶಯನಿಗಿದ್ದ ಅವ್ಯಾಜ್ಯ, ನಿಸ್ಸಂಶಯವಾದ ಭಕ್ತಿ ಅವರ ಜೀವನವನ್ನು ಹೇಗೆ ಕೊನೆಯವರೆಗೂ ನಿಯಂತ್ರಿಸಿತು ಎನ್ನುವುದು ಪುಸ್ತಕದಲ್ಲಿ ಅದ್ಭುತವಾಗಿ ಮೂಡಿಬಂದಿದೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=fZyFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -229,7 +229,7 @@
 		<div class="col-md-12 bookinfo" id="011">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
+					<a target="_blank" href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/011.jpg" />
 					</a>
 				</div>
@@ -240,9 +240,9 @@
 						ಇದು ಈಶ್ವರ ಕವಿ ವಿರಚಿತ ‘ಕವಿಜಿಹ್ವಾಬಂಧನ'ದ ಸಂಗ್ರಹ. ಹಿಂದಿನ ಲಕ್ಷಣ ಗ್ರಂಥಕರ್ತರಾದ ವಾಮನ ಭಾಮಹಾದಿಗಳು ತಮ್ಮ ಗ್ರಂಥಗಳಲ್ಲಿ ಬರಿಯ ಕಾವ್ಯಲಕ್ಷಣಗಳನ್ನು ಮಾತ್ರ ಹೇಳದೆ, ವ್ಯಾಕರಣ, ನ್ಯಾಯಾದಿಗಳ ಪ್ರಯೋಗವನ್ನೂ ಸ್ವಲ್ಪ ಸ್ವಲ್ಪ ಸ್ಪರ್ಶಿಸಿದ್ದರು. ಕವಿಯಾದವನಿಗೆ ಬರಿಯ ವ್ಯಾಕರಣವಾಗಲಿ, ಬರಿಯ ಛಂದಸ್ಸಾಗಲಿ, ಬರಿಯ ಅಲಂಕಾರವಾಗಲಿ, ಬರಿಯ ನಿಘಂಟಾಗಲಿ ತಿಳಿದರೆ ಸಾಲದು, ಎಲ್ಲವೂ ಬೇಕು ಎಂಬುದು ಅವರ ಭಾವ. ಅದೇ ಸಂಪ್ರದಾಯ ಮುಂದೂ ಕೆಲವು ಕಾಲ ನಡೆದುಕೊಂಡು ಬಂತು. ಈಶ್ವರ ಕವಿಯೂ ಆ ಸಂಪ್ರದಾಯವನ್ನೇ  ಅನುಸರಿಸಿರುವಂತೆ ತೋರುತ್ತದೆ. ಆದ್ದರಿಂದ ಕವಿಜಿಹ್ವಾಬಂಧನವೆಂದರೆ ಕವಿಯ ನಾಲಗೆಗೆ ಛಂದಸ್ಸಿನ ಕಟ್ಟು ಒಂದೇ ಅಲ್ಲ, ಲಕ್ಷಣಶಾಸ್ತ್ರದೊಳಗೆ ಸೇರುವ ಮಿಕ್ಕೆಲ್ಲ ಶಾಸ್ತ್ರಗಳ ಕಟ್ಟೂ ಎಂದು ಸಾರ. ಇದನ್ನು ಸಂಗ್ರಹಿಸಿ ಕೊಟ್ಟು ಎ. ಆರ್. ಕೃಷ್ಣಶಾಸ್ತ್ರಿಗಳು ಕನ್ನಡಿಗರಿಗೆ - ಕನ್ನಡ ಕಾವ್ಯಾಸ್ವಾದಕರಿಗೆ ಮಹತ್ತಾದ ಉಪಕಾರವನ್ನು ಮಾಡಿದ್ದಾರೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
+						<a target="_blank" href="https://play.google.com/store/books/details?id=e5yFDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-							<span class="more">e - ಪುಸ್ತಕ</span>
+							<span class="more">e–ಪುಸ್ತಕ</span>
 						</a>
 					</p>
 				</div>
@@ -268,7 +268,7 @@
 <p class="googleBooks">
 <a href="javascript:void()">
 	<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
-	<span class="more">e - ಪುಸ್ತಕ</span>
+	<span class="more">e–ಪುಸ್ತಕ</span>
 	</a>
 </p>
 </div> -->

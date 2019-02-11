@@ -3,7 +3,7 @@ a {
 }
 body{
     margin-top: 75px;
-    font-family: 'Nudi', sans-serif;
+    font-family: 'shreelipi', sans-serif;
 }
 .dynamic-page{
     min-height: 75vh;
@@ -14,12 +14,13 @@ body{
 }
 .small-note{
     background: rgba(153, 204, 255, 0.1);
+    font-size: 22px;
 }
 .banner .small-note{
-    font-family: 'Nudi';
-    font-size: 18px;
+    font-family: 'shreelipi';
+    font-size: 22px;
     /*font-style: italic;*/
-    line-height: 1.75em;
+    line-height: 1.5em;
     background: rgba(153, 204, 255, 0.1);
 }
 .banner .head{
@@ -38,7 +39,7 @@ body{
     margin-bottom: 10px;
 }
 .banner h3 small{
-    font-family: 'Nudi';
+    font-family: 'shreelipi';
     font-size: 16px;
     line-height: 30px;
 }
@@ -49,7 +50,8 @@ body{
 .bookinfo{
     padding: 20px 20px 0px 20px;
     border-bottom: 1px solid rgba(220, 220, 220, 0.8);
-    font-size: 17px;
+    font-size: 22px;
+    line-height: 42px;
 }
 .bookinfo .cover{
     width: 230px;
@@ -62,7 +64,7 @@ body{
     color: #0C1D67;
 }
 .bookinfo .edition{
-    font-size: 18px;
+    font-size: 22px;
     color: #0C1D67;
 }
 .bookinfo .price{
@@ -98,7 +100,7 @@ body{
 .booksCollection .title{
     color: #000;
     text-align: center;
-    font-size: 18px;
+    font-size: 22px;
     color: #0C1D67;
     margin: 10px;
 }
@@ -124,8 +126,8 @@ body{
     color: #292A3E;
 }
 .about{
-    font-size: 20px;
-    line-height: 35px;
+    font-size: 22px;
+    line-height: 1.5em;
     text-align: justify;
 }
 .about p:not(:last-child){
@@ -149,6 +151,10 @@ body{
 h4, h2{
     color: #0C1D67;
 }
+.video-intro{
+    font-size: 22px;
+    line-height: 32px;
+}
 .delimeter{
     text-align: center;
     letter-spacing: 15px;
@@ -157,6 +163,9 @@ h4, h2{
 }
 .footer {
     margin-top: 50px;
+}
+.eng{
+    font-family: sans-serif !important;
 }
 @media(min-width:768px) {
     .flat-page, .dynamic-page{
