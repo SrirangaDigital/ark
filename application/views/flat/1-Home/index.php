@@ -57,7 +57,7 @@
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/005.jpg" />
 				<p class="title">ಬಂಕಿಮಚಂದ್ರ</p>
 			</a>
@@ -69,7 +69,7 @@
 			</a>
 		</div>
 		<div class="col-md-2 p-1">
-			<a href="javascript:void(0);">
+			<a href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
 				<img class="img-fluid img-thumbnail" src="<?=IMAGE_URL?>books/007.jpg" />
 				<p class="title">ಕಥಾಮೃತ</p>
 			</a>

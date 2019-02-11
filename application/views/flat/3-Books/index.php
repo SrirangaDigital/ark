@@ -97,7 +97,7 @@
 		<div class="col-md-12 bookinfo" id="005">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/005.jpg" />
 					</a>
 				</div>
@@ -108,7 +108,7 @@
 						ಎ. ಆರ್. ಕೃ. ಅವರು ಮೊದಲು ಓದಿದ ಬಂಕಿಮಚಂದ್ರರ ಕೃತಿ, ಶ್ರೀ ಬಿ. ವೆಂಕಟಾಚಾರ್ಯರು ಕನ್ನಡಕ್ಕೆ ತರ್ಜುಮೆ ಮಾಡಿದ್ದ ‘ಆನಂದಮಠ’. ಅದನ್ನು ಮೂಲದಲ್ಲಿ ಓದಬೇಕೆಂದು ಬಂಗಾಲೀ ಭಾಷೆಯನ್ನು ಕಲಿತು- ಆ ಭಾಷೆಯನ್ನು ಕರತಲಾಮಲಕವನ್ನಾಗಿ ಮಾಡಿಕೊಂಡರು. ನಿವೃತ್ತರಾದ ಮೇಲೆ, ಪಾಠ ಹೇಳುವಾಗ ತಾವು ಮಾಡಿಕೊಂಡಿದ್ದ ಟಿಪ್ಪಣಿಗಳನ್ನೆಲ್ಲಾ ಸೇರಿಸಿ ‘ಬಂಕಿಮಚಂದ್ರ’ (ಬಂಕಿಮರ ಜೀವನ ಚರಿತ್ರೆ-ಕೃತಿ-ವಿಮರ್ಶೆ) ಬರೆದರು.ಇದಕ್ಕೆ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯ ಬಹುಮಾನ ಬಂತು. ವೃದ್ಧಾಪ್ಯದಿಂದಾಗಿ ದೆಹಲಿಗೆ ಹೋಗಲು ನಿರಾಕರಿಸಿದಾಗ ಕೇಂದ್ರ ಸಾಹಿತ್ಯ ಅಕಾಡೆಮಿಯವರೇ ಅವರ ಮನೆಬಾಗಿಲಿಗೆ ಬಂದು ಆಹ್ವಾನಿತ ಸನ್ಮಿತ್ರರ ಮುಂದೆ ಗೌರವಿಸಿ ಸಮಾರಂಭವನ್ನು ನಡೆಸಿದರು. ಇಂತಹ ಸನ್ಮಾನವನ್ನು ಪಡೆದ ಕನ್ನಡಿಗರಲ್ಲಿ ಎ. ಆರ್. ಕೃ. ಅವರು ಮೊದಲನೆಯವರು. ಆ ಸಂದರ್ಭದಲ್ಲಿ ಬಂಗಾಳದ ಅಮೃತ ಬಜಾರ್ ಪತ್ರಿಕೆಯವರು ಒಂದು ಹೇಳಿಕೆಯನ್ನಿತ್ತು, "ಒಬ್ಬ ಬೆಂಗಾಲಿ ಮಾಡಲಾಗದ ಕೆಲಸವನ್ನು, ಬೆಂಗಾಲಿಯಬಗ್ಗೆ- ಮಾತೃಭಾಷೆ ಕನ್ನಡ ಆಗಿರುವ ಒಬ್ಬರು ಮಾಡಿರುವುದು- ಇಂಥ ಪುಸ್ತಕವನ್ನು ಬರೆದು, ಪುರಸ್ಕಾರ ಪಡೆಯುತ್ತಿರುವುದು ಶ್ಲಾಘನೀಯ" ಎಂದಿದ್ದಾರೆ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=c0eHDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
@@ -141,7 +141,7 @@
 		<div class="col-md-12 bookinfo" id="007">
 			<div class="row">
 				<div class="col-md-3">
-					<a href="javascript:void(0);">
+					<a href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
 						<img class="cover" src="<?=IMAGE_URL?>books/007.jpg" />
 					</a>
 				</div>
@@ -152,7 +152,7 @@
 						ಸೋಮದೇವನ 'ಕಥಾಸರಿತ್ಸಾಗರ' ಸಂಸ್ಕೃತದಲ್ಲಿರುವ ಒಂದು ದೊಡ್ಡ ಕಾವ್ಯ. ಪ್ರಪಂಚದ ಹಿರಿಯ ಭಾಷೆಗಳಿಗೆಲ್ಲಾ ಭಾಷಾಂತರವಾಗಿ ಕಥಾಶಾಸ್ತ್ರ ವ್ಯಾಸಂಗಕ್ಕೆ ಸಾಧನವಾಗಿರುವ ಕಾವ್ಯ. ಕಥೆಗಳೆಂಬ ನದಿಗಳು ಬಂದು ಸೇರಿ ಆಗಿರುವ ಸಾಗರವೇ 'ಕಥಾಸರಿತ್ಸಾಗರ'. 'ಕಥಾಮೃತ' ಅದರ ಸಂಗ್ರಹರೂಪ. 'ಕಥಾಮೃತ'ದಲ್ಲಿ ಬೇಕಾದಷ್ಟು ಕಥೆಗಳಿವೆ; ಎಲ್ಲ ವಯಸ್ಸಿನ, ಎಲ್ಲ ಸಂಸ್ಕಾರಗಳ, ಎಲ್ಲ ರುಚಿಗಳ ಜನರಿಗೂ ಪ್ರಿಯವಾಗುವ, ಹಿತವಾಗುವ ಕಥೆಗಳಿವೆ. ಇದು ಪ್ರಾಚೀನ ಭರತಖಂಡದ ಅತ್ಯುತ್ತಮ ಕಥೆಗಳ - ನೂರಾರು ಕಥೆಗಳ - ಭಂಡಾರ.
 					</p>
 					<p class="googleBooks">
-						<a href="javascript:void()">
+						<a href="https://play.google.com/store/books/details?id=dUeHDwAAQBAJ">
 							<img src="<?=IMAGE_URL?>googlePlay.jpg" alt="Google Books" />
 							<span class="more">e - ಪುಸ್ತಕ</span>
 						</a>
